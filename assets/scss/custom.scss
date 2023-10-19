@@ -1,0 +1,241 @@
+:root {
+    --vpc-gray-1: #dddde3;
+    --vpc-gray-2: #e4e4e9;
+    --vpc-gray-3: #ebebef;
+    --vpc-gray-soft: rgba(142, 150, 170, .14);
+    --vpc-indigo-1: #3451b2;
+    --vpc-indigo-2: #3a5ccc;
+    --vpc-indigo-3: #5672cd;
+    --vpc-indigo-soft: rgba(100, 108, 255, .14);
+    --vpc-green-1: #18794e;
+    --vpc-green-2: #299764;
+    --vpc-green-3: #30a46c;
+    --vpc-green-soft: rgba(16, 185, 129, .14);
+    --vpc-yellow-1: #915930;
+    --vpc-yellow-2: #946300;
+    --vpc-yellow-3: #9f6a00;
+    --vpc-yellow-soft: rgba(234, 179, 8, .14);
+    --vpc-red-1: #b8272c;
+    --vpc-red-2: #d5393e;
+    --vpc-red-3: #e0575b;
+    --vpc-red-soft: rgba(244, 63, 94, .14);
+    --vpc-sponsor: #db2777
+}
+:root {
+    --card-text-color-main: var(--card-text-color-main)
+    --card-text-color-main: var(--card-text-color-main)
+    --card-text-color-main: var(--card-text-color-main)
+}
+:root {
+    --vpc-default-1: var(--vpc-gray-1);
+    --vpc-default-2: var(--vpc-gray-2);
+    --vpc-default-3: var(--vpc-gray-3);
+    --vpc-default-soft: var(--vpc-gray-soft);
+    --vpc-b-1: var(--vpc-indigo-1);
+    --vpc-b-2: var(--vpc-indigo-2);
+    --vpc-b-3: var(--vpc-indigo-3);
+    --vpc-b-soft: var(--vpc-indigo-soft);
+    --vpc-b: var(--vpc-b-1);
+    --vpc-tip-1: var(--vpc-b-1);
+    --vpc-tip-2: var(--vpc-b-2);
+    --vpc-tip-3: var(--vpc-b-3);
+    --vpc-tip-soft: var(--vpc-b-soft);
+    --vpc-warning-1: var(--vpc-yellow-1);
+    --vpc-warning-2: var(--vpc-yellow-2);
+    --vpc-warning-3: var(--vpc-yellow-3);
+    --vpc-warning-soft: var(--vpc-yellow-soft);
+    --vpc-danger-1: var(--vpc-red-1);
+    --vpc-danger-2: var(--vpc-red-2);
+    --vpc-danger-3: var(--vpc-red-3);
+    --vpc-danger-soft: var(--vpc-red-soft)
+}
+
+:root {
+    --vpcb-font-size: 14px;
+    --vpcb-code-font-size: 13px;
+    --vpcb-info-border: transparent;
+    --vpcb-info-text: var(--card-text-color-main);
+    --vpcb-info-bg: var(--vpc-default-soft);
+    --vpcb-info-code-bg: var(--vpc-default-soft);
+    --vpcb-tip-border: transparent;
+    --vpcb-tip-text: var(--card-text-color-main);
+    --vpcb-tip-bg: var(--vpc-b-soft);
+    --vpcb-tip-code-bg: var(--vpc-b-soft);
+    --vpcb-warning-border: transparent;
+    --vpcb-warning-text: var(--card-text-color-main);
+    --vpcb-warning-bg: var(--vpc-warning-soft);
+    --vpcb-warning-code-bg: var(--vpc-warning-soft);
+    --vpcb-danger-border: transparent;
+    --vpcb-danger-text: var(--card-text-color-main);
+    --vpcb-danger-bg: var(--vpc-danger-soft);
+    --vpcb-danger-code-bg: var(--vpc-danger-soft);
+    --vpcb-details-border: var(--vpcb-info-border);
+    --vpcb-details-text: var(--vpcb-info-text);
+    --vpcb-details-bg: var(--vpcb-info-bg);
+    --vpcb-details-code-bg: var(--vpcb-info-code-bg)
+}
+.custom-block {
+    border: 1px solid transparent;
+    border-radius: 8px;
+    padding: 0px 16px 8px;
+    line-height: 24px;
+    font-size: var(--vpcb-font-size);
+    color: var(--card-text-color-main)
+}
+
+.custom-block.info {
+    border-color: var(--vpcb-info-border);
+    color: var(--vpcb-info-text);
+    background-color: var(--vpcb-info-bg)
+}
+
+.custom-block.info a,.custom-block.info code {
+    color: var(--vpc-b-1)
+}
+
+.custom-block.info a:hover {
+    color: var(--vpc-b-2)
+}
+
+.custom-block.info code {
+    background-color: var(--vpcb-info-code-bg)
+}
+
+.custom-block.tip {
+    border-color: var(--vpcb-tip-border);
+    color: var(--vpcb-tip-text);
+    background-color: var(--vpcb-tip-bg)
+}
+
+.custom-block.tip a,.custom-block.tip code {
+    color: var(--vpc-b-1)
+}
+
+.custom-block.tip a:hover {
+    color: var(--vpc-b-2)
+}
+
+.custom-block.tip code {
+    background-color: var(--vpcb-tip-code-bg)
+}
+
+.custom-block.warning {
+    border-color: var(--vpcb-warning-border);
+    color: var(--vpcb-warning-text);
+    background-color: var(--vpcb-warning-bg)
+}
+
+.custom-block.warning a,.custom-block.warning code {
+    color: var(--vpc-warning-1)
+}
+
+.custom-block.warning a:hover {
+    color: var(--vpc-warning-2)
+}
+
+.custom-block.warning code {
+    background-color: var(--vpcb-warning-code-bg)
+}
+
+.custom-block.danger {
+    border-color: var(--vpcb-danger-border);
+    color: var(--vpcb-danger-text);
+    background-color: var(--vpcb-danger-bg)
+}
+
+.custom-block.danger a,.custom-block.danger code {
+    color: var(--vpc-danger-1)
+}
+
+.custom-block.danger a:hover {
+    color: var(--vpc-danger-2)
+}
+
+.custom-block.danger code {
+    background-color: var(--vpcb-danger-code-bg)
+}
+
+.custom-block.details {
+    border-color: var(--vpcb-details-border);
+    color: var(--vpcb-details-text);
+    background-color: var(--vpcb-details-bg)
+}
+
+.custom-block.details a {
+    color: var(--vpc-b-1)
+}
+
+.custom-block.details a:hover {
+    color: var(--vpc-b-2)
+}
+
+.custom-block.details code {
+    background-color: var(--vpcb-details-code-bg)
+}
+
+.custom-block-title {
+    font-weight: 600
+}
+
+.custom-block p+p {
+    margin: 8px 0
+}
+
+.custom-block.details summary {
+    margin: 0 0 8px;
+    font-weight: 700;
+    cursor: pointer
+}
+
+.custom-block.details summary+p {
+    margin: 8px 0
+}
+
+.custom-block a {
+    color: inherit;
+    font-weight: 600;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    transition: opacity .25s
+}
+
+.custom-block a:hover {
+    opacity: .75
+}
+
+.custom-block code {
+    font-size: var(--vpcb-code-font-size)
+}
+
+.custom-block.custom-block th,.custom-block.custom-block blockquote>p {
+    font-size: var(--vpcb-font-size);
+    color: inherit
+}
+
+.vp-doc .custom-block {
+    margin: 16px 0
+}
+
+.vp-doc .custom-block p {
+    margin: 8px 0;
+    line-height: 24px
+}
+
+.vp-doc .custom-block p:first-child {
+    margin: 0
+}
+
+.vp-doc .custom-block div[class*=language-] {
+    margin: 8px 0;
+    border-radius: 8px
+}
+
+.vp-doc .custom-block div[class*=language-] code {
+    font-weight: 400;
+    background-color: transparent
+}
+
+.vp-doc .custom-block .vp-code-group .tabs {
+    margin: 0;
+    border-radius: 8px 8px 0 0
+}

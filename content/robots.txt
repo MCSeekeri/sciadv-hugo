@@ -1,0 +1,10 @@
+User-agent: *
+
+Allow: /
+Allow: /categories/
+Allow: /archives/
+Allow: /about/
+Allow: /tags/
+
+
+Sitemap: https://lib.sci-adv.cc/sitemap.xml
