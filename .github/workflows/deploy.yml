@@ -37,7 +37,7 @@ jobs:
                   extended: true
 
             - name: Build
-              run: hugo --minify --gc
+              run: hugo --minify --gc && sed -i s/cdn.jsdelivr.net/jsd.onmicrosoft.cn/g `grep cdn.jsdelivr.net -rl --include="*.*" ./public`  
 
             - name: Deploy 🚀
               uses: JamesIves/github-pages-deploy-action@v4
