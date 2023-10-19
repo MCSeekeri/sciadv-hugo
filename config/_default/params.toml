@@ -1,0 +1,151 @@
+# Pages placed under these sections will be shown on homepage and archive page.
+mainSections = ["post"]
+# Output page's full content in RSS.
+rssFullContent = true
+favicon = "/favicon.png"
+
+[footer]
+since = 2020
+customText = "下北泽ICP备 红茶114514号"
+
+[dateFormat]
+published = "Jan 02, 2006"
+lastUpdated = "Jan 02, 2006 15:04 MST"
+
+[sidebar]
+emoji = "🎁"
+subtitle = "然后。我、将这个混账的站点发布了"
+
+[sidebar.avatar]
+enabled = true
+local = true
+src = "/MCSeekeri.jpg"
+
+[article]
+math = false
+readingTime = true
+
+[article.license]
+enabled = true
+default = "本站所有内容都经过了原作者的授权"
+
+## Widgets
+[[widgets.homepage]]
+type = "search"
+
+[[widgets.homepage]]
+type = "archives"
+
+[widgets.homepage.params]
+limit = 5
+
+[[widgets.homepage]]
+type = "categories"
+
+[widgets.homepage.params]
+limit = 10
+
+[[widgets.homepage]]
+type = "tag-cloud"
+
+[widgets.homepage.params]
+limit = 15
+
+[[widgets.page]]
+type = "toc"
+
+[defaultImage.opengraph]
+enabled = true
+local = false
+src = ""
+
+[colorScheme]
+toggle = true
+default = "auto"
+
+[imageProcessing.cover]
+enabled = true
+
+[imageProcessing.content]
+enabled = true
+
+## Comments
+[comments]
+enabled = true
+provider = "waline"
+
+[comments.disqusjs]
+shortname = ""
+apiUrl = ""
+apiKey = ""
+admin = ""
+adminLabel = ""
+
+[comments.utterances]
+repo = ""
+issueTerm = "pathname"
+label = ""
+
+[comments.remark42]
+host = ""
+site = ""
+locale = ""
+
+[comments.vssue]
+platform = ""
+owner = ""
+repo = ""
+clientId = ""
+clientSecret = ""
+autoCreateIssue = false
+
+[comments.waline]
+serverURL = "https://comments.sciadv.mcseekeri.top"
+lang = ""
+visitor = ""
+avatar = ""
+requiredMeta = ["name", "email", "url"]
+placeholder = ""
+pageview = true
+comment = true
+recaptchaV3Key = "6Lf9KTAbAAAAALfqwFyJmbRTABDc3MwyCKo696gp"
+emoji = ["https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/QQ", "https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Tieba", "https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Tieba-New", "https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/weibo", "https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Coolapk", "https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Heybox", "https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/bilibili2233/", "https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/Menhera-chan"]
+reaction = ["https://unpkg.com/@waline/emojis@1.1.0/tieba/tieba_agree.png", "https://unpkg.com/@waline/emojis@1.1.0/tieba/tieba_doubt.png", "https://unpkg.com/@waline/emojis@1.1.0/tieba/tieba_heart.png", "https://unpkg.com/@waline/emojis@1.1.0/tieba/tieba_lovely.png", "https://unpkg.com/@waline/emojis@1.1.0/tieba/tieba_rage.png", "https://unpkg.com/@waline/emojis@1.1.0/tieba/tieba_cry.png", "https://unpkg.com/@waline/emojis@1.1.0/tieba/tieba_awkward.png", "https://unpkg.com/@waline/emojis@1.1.0/tieba/tieba_vomit.png"]
+
+
+
+[comments.waline.locale]
+admin = "Admin"
+
+[comments.twikoo]
+envId = ""
+region = ""
+path = ""
+lang = ""
+
+[comments.cactus]
+defaultHomeserverUrl = "https://matrix.cactus.chat:8448"
+serverName = "cactus.chat"
+siteName = ""
+
+[comments.giscus]
+repo = ""
+repoID = ""
+category = ""
+categoryID = ""
+mapping = ""
+lightTheme = ""
+darkTheme = ""
+reactionsEnabled = 1
+emitMetadata = 0
+
+[comments.gitalk]
+owner = ""
+admin = ""
+repo = ""
+clientID = ""
+clientSecret = ""
+
+[comments.cusdis]
+host = ""
+id = ""
