@@ -15,7 +15,7 @@ slug: cb10de70
 date: 2011-09-16 00:00:00
 image:
 ---
-<details class="details custom-block"><summary>作品相关 </summary>
+<details class="note details"><summary>作品相关 </summary>
 Steins;Gate 公式设定集 Question & Answer
 回答:5pb.（松原达也氏、林直考氏）
 「note」是此书制作人员的考察和备注，并非 5pb.的官方回答。

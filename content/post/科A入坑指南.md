@@ -33,9 +33,9 @@ weight: 1
 如果你懒得看下面的介绍，那就用目录直接跳到下面的"如何入坑"罢（
 
 ### 妄想科学 ADV
-<div class="warning custom-block"><p class="custom-block-title">警告</p><p>本系列以血腥恐怖猎奇向为主，请心理承受能力较差的玩家慎重考虑。</p></div><p>
+<div class="note warning">警告</p><p>本系列以血腥恐怖猎奇向为主，请心理承受能力较差的玩家慎重考虑。</p></div>
 
-<div class="danger custom-block"><p class="custom-block-title">不要看动画</p><p>本系列动画化全部暴死，游戏是唯一正确体验方式</p></div><p>
+<div class="note danger">不要看动画</p><p>本系列动画化全部暴死，游戏是唯一正确体验方式</p></div>
 
 > fun<sup>10</sup>×int<sup>40</sup>=Ir2
 
@@ -47,13 +47,13 @@ weight: 1
 ![](https://unpkg.com/sciadvfiles@1.0.7/Intro/CH.webp)
 系列开山之作，但由于各种原因…不建议游玩此版本。
 基本就是个半成品…设定不完整，线路不全，现在这部的资源都不好找了。
-<div class="info custom-block"><p class="custom-block-title">官方登陆平台</p><p>PC</p></div><p>
+<div class="note info">官方登陆平台</p><p>PC</p></div>
 
 #### Chäos;HEAd NoAH
 混沌之脑：诺亚，简称 CHN。
 是 CH 的补完版本，完善了设定并添加了个人线。出色的奠定了科 A 系列基础，游玩体验一般，结局略显仓促，但确实是一部优秀的作品。
 独特的妄想机制很有新意，依靠男主的妄想来决定故事发展，比其他文字冒险游戏的点按钮高端多了（
-<div class="info custom-block"><p class="custom-block-title">官方登陆平台</p><p>PC Xbox PSP PS3 PSV iOS Android</p></div><p>
+<div class="note info">官方登陆平台</p><p>PC Xbox PSP PS3 PSV iOS Android</p></div>
 
 #### Chäos;HEAd Love chu☆chu
 混沌之脑：恋爱亲亲，简称 CHLCC。
@@ -61,7 +61,7 @@ weight: 1
 因为我原本在这里的评价不太客观，修正一下：虽然恋爱剧情是大头但也是个很好的成长故事。
 ~~其实玩这个可以有效应对被本篇吓到睡不着~~
 有贴吧老哥制作的 RenPy 全平台版本。
-<div class="info custom-block"><p class="custom-block-title">官方登陆平台</p><p>Xbox PSP PS3 PSV</p></div><p>
+<div class="note info">官方登陆平台</p><p>Xbox PSP PS3 PSV</p></div>
 
 #### Chäos;Child
 混沌之子，简称 CC。
@@ -75,7 +75,7 @@ weight: 1
 不过要是指望这部作品拳打 EVER17 脚踢命运石之门是非常不现实的 w
 风格较为电波，能接受的认为是神作，不能接受的认为是莫名其妙的作品（摊手
 已上架 Steam，有民间汉化 (而且效果非常不错)
-<div class="info custom-block"><p class="custom-block-title">官方登陆平台</p><p>PC Xbox PS3 PS4 PSV iOS Android</p></div><p>
+<div class="note info">官方登陆平台</p><p>PC Xbox PS3 PS4 PSV iOS Android</p></div>
 <iframe src="https://store.steampowered.com/widget/970570/?t=%E5%85%AD%E5%B9%B4%E5%89%8D%E7%9A%84%E7%81%BE%E9%9A%BE%E5%90%8E%EF%BC%8C%E8%88%9E%E5%8F%B0%E9%87%8D%E6%96%B0%E5%9B%9E%E5%88%B0%E4%BA%86%E8%A2%AB%E5%A4%8D%E5%85%B4%E9%87%8D%E5%BB%BA%E7%9A%84%E6%B6%A9%E8%B0%B7%E3%80%822015%20%E5%B9%B4%2010%20%E6%9C%88%EF%BC%8C%E9%AB%98%E4%B8%AD%E4%B8%89%E5%B9%B4%E7%BA%A7%E5%AD%A6%E7%94%9F%E5%AE%AB%E4%BB%A3%E6%8B%93%E7%95%99%E6%B3%A8%E6%84%8F%E5%88%B0%E4%BA%86%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F%E5%9C%A8%E6%B6%A9%E8%B0%B7%E4%B8%AD%E7%9A%84%E8%AF%A1%E5%BC%82%E4%BA%8B%E4%BB%B6%EF%BC%9A%E7%A5%9E%E7%A7%98%E6%AD%BB%E4%BA%A1%E7%9A%84%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%92%AD%E4%B8%8E%E7%A6%BB%E5%A5%87%E6%AD%BB%E4%BA%A1%E7%9A%84%E8%A1%97%E5%A4%B4%E6%AD%8C%E6%89%8B%E3%80%82%E4%BB%96%E6%95%8F%E9%94%90%E5%9C%B0%E5%AF%9F%E8%A7%89%E5%88%B0%EF%BC%8C%E8%BF%99%E4%B8%A4%E8%B5%B7%E4%BA%8B%E4%BB%B6%E4%BC%BC%E4%B9%8E%E9%83%BD%E4%B8%8E%E5%85%AD%E5%B9%B4%E5%89%8D%E9%9C%87%E5%8A%A8%E6%B6%A9%E8%B0%B7%E7%9A%84%E2%80%9C%E6%9F%90%E4%B8%AA%E4%BA%8B%E4%BB%B6%E2%80%9D%E7%9A%84%E6%97%A5%E6%9C%9F%E4%B8%80%E8%87%B4%E2%80%94%E2%80%94%E4%BB%BF%E4%BD%9B%E2%80%9C%E6%96%B0%E4%B8%96%E4%BB%A3%E7%9A%84%E7%96%AF%E7%8B%82%E2%80%9D%E5%86%8D%E6%AC%A1%E8%A2%AD%E6%9D%A5%E3%80%82%0A%E8%87%AA%E8%AF%A9%E4%B8%BA%E6%83%85%E6%8A%A5%E5%BC%BA%E8%80%85%E7%9A%84%E6%8B%93%E7%95%99%E4%B8%8E%E4%BB%96%E7%9A%84%E6%96%B0%E9%97%BB%E9%83%A8%EF%BC%8C%E5%BC%80%E5%A7%8B%E8%BF%BD%E9%80%90%E4%BA%8B%E4%BB%B6%E3%80%82%0A%E5%8F%AA%E6%9C%89%E6%8B%AF%E6%95%91%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E7%9A%84%EF%BC%8C%E6%89%8D%E6%98%AF%E8%8B%B1%E9%9B%84%E5%90%97%EF%BC%9F" frameborder="0" width="646" height="190"></iframe>
 
 #### Chäos;Child Love chu☆chu
@@ -83,11 +83,11 @@ weight: 1
 依旧是正统恋爱 FD，但极度不建议游玩。
 设定与本篇冲突，看似发糖实则喂屎，志仓的恶意贯穿其中…
 为啥要给自己找不痛快呢？
-<div class="info custom-block"><p class="custom-block-title">官方登陆平台</p><p>PS4 PSV</p></div><p>
+<div class="note info">官方登陆平台</p><p>PS4 PSV</p></div>
 总的来说，妄想科学 ADV 是非常「疯狂」的一系列作品，选择了超能力这个略显老套的题材配上猎奇的剧情内核……非常萌新不友好，除非是久经沙场的 Galgame 玩家否则我不推荐去接触。
 
 ### 想定科学 ADV
-<div class="tip custom-block"><p class="custom-block-title">放心观看</p><p>本系列血腥恐怖内容含量极低</p></div><p>
+<div class="note success">放心观看</p><p>本系列血腥恐怖内容含量极低</p></div>
 
 > 涩谷崩坏的半年后，舞台来到了 2010 年夏天的秋叶原。中二病大学生冈部伦太郎戏剧性地邂逅了天才科学家少女牧濑红莉栖，他们无意间发现，通过微波炉竟然可以将电子邮件发送回过去，并改变因果。于是以冈部伦太郎为首的未来道具研究所成员们，在好奇心的驱动下开始了深入探究。随着实验不断进行，席卷世界的危机与阴谋也向冈部伦太郎迫近，而他并不知道，这只是他们悲惨命运与无尽抗争的开端……
 > 命运石之门，真的存在吗？
@@ -102,8 +102,8 @@ weight: 1
 商业化也极为成功，动画没有像 CH 那样大暴死，而是进一步完善了世界观，拓宽了受众。SG 成功登上神坛。
 ~~当然就算登神了 SG 还是著名冷门番这是为啥呢~~
 另外，志仓为了捞钱又发布了海量的小说漫画广播剧，短片续作设定集。~~让我这种试图做资源整合的人累到头秃~~
-<div class="warning custom-block"><p class="custom-block-title">警告</p><p>本作采用手机触发，不是传统 Galgame 的选项触发，很多萌新就因此直奔铃羽线</p></div><p>
-<div class="info custom-block"><p class="custom-block-title">官方登陆平台</p><p>PC Xbox PSP PS3 PS4 PSV NS iOS Android</p></div><p>
+<div class="note warning">警告</p><p>本作采用手机触发，不是传统 Galgame 的选项触发，很多萌新就因此直奔铃羽线</p></div>
+<div class="note info">官方登陆平台</p><p>PC Xbox PSP PS3 PS4 PSV NS iOS Android</p></div>
 <iframe src="https://store.steampowered.com/widget/412830/" frameborder="0" width="646" height="190"></iframe>
 
 #### Steins;Gate:My Darling's Embrace
@@ -113,7 +113,7 @@ weight: 1
 如果玩 SG0 的时候太胃疼可以靠比翼来缓解一下。
 已上架 Steam，有民间汉化。
 有贴吧老哥制作的 RenPy 全平台版本。
-<div class="info custom-block"><p class="custom-block-title">官方登陆平台</p><p>PC Xbox PSP PS3 PS4 PSV NS</p></div><p>
+<div class="note info">官方登陆平台</p><p>PC Xbox PSP PS3 PS4 PSV NS</p></div>
 <iframe src="https://store.steampowered.com/widget/970560/" frameborder="0" width="646" height="190"></iframe>
 
 #### Steins;Gate:Linear Bounded Phenogram
@@ -122,13 +122,13 @@ weight: 1
 没有像本篇一样使用主角单一视角，而是多人物叙事，完善了本篇略显单薄的人设。
 已上架 Steam，有民间汉化。
 有贴吧老哥制作的 RenPy 全平台版本。
-<div class="info custom-block"><p class="custom-block-title">官方登陆平台</p><p>PC Xbox PS3 PS4 PSV NS</p></div><p>
+<div class="note info">官方登陆平台</p><p>PC Xbox PS3 PS4 PSV NS</p></div>
 
 #### Steins;Gate:Variant Space Octet
 命运石之门：变移空间的 8Bit，简称 8Bit。
 还不错的小外传，全部采用 8Bit 风格，剧情相对独立，与隔壁 CH 有角色上的联动。
 总之是部能几个小时通关的休闲作品，值得一玩。
-<div class="info custom-block"><p class="custom-block-title">官方登陆平台</p><p>PC</p></div><p>
+<div class="note info">官方登陆平台</p><p>PC</p></div>
 
 #### Steins;Gate 0
 命运石之门 0，简称 SG0。
@@ -137,7 +137,7 @@ weight: 1
 介绍这部作品必定会剧透本篇，所以我就不介绍了（
 就我个人观感而言，0 的质量远超本篇，完善了很多本篇的不足。
 已上架 Steam，有官方中文和民间汉化。
-<div class="info custom-block"><p class="custom-block-title">官方登陆平台</p><p>PC Xbox PS3 PS4 PSV NS</p></div><p>
+<div class="note info">官方登陆平台</p><p>PC Xbox PS3 PS4 PSV NS</p></div>
 <iframe src="https://store.steampowered.com/widget/825630/" frameborder="0" width="646" height="190"></iframe>
 
 #### Steins;Gate ELITE
@@ -145,7 +145,7 @@ weight: 1
 ![](https://unpkg.com/sciadvfiles@1.0.7/Intro/SGE.webp)
 就是 SG 的冷饭版本，把之前做的动画塞进本篇游戏卖，没啥可说的。
 已上架 Steam，有官方中文。
-<div class="info custom-block"><p class="custom-block-title">官方登陆平台</p><p>PC Xbox PS4 PSV NS iOS</p></div><p>
+<div class="note info">官方登陆平台</p><p>PC Xbox PS4 PSV NS iOS</p></div>
 <iframe src="https://store.steampowered.com/widget/819030/" frameborder="0" width="646" height="190"></iframe>
 
 想定科学 ADV 可以说是整个科 A 系列中最接近传统科幻的作品了，但你要说石头门是软科幻……它建立了极为完善且大部分基于现代物理学的世界线收束理论；你要说石头门是硬科幻……多吃蔬菜生萌妹和 36TiB 压缩成 18Byte 这实在是纯属瞎扯啊……
@@ -170,7 +170,7 @@ weight: 1
 另外，高达粉建议去看完 0079 再来玩（
 顺带一提，本作没有登陆 Steam，没有！
 ~~不过动画化不错，推荐观看~~
-<div class="info custom-block"><p class="custom-block-title">官方登陆平台</p><p>PC Xbox PS3 PS4 PSV NS</p></div><p>
+<div class="note info">官方登陆平台</p><p>PC Xbox PS3 PS4 PSV NS</p></div>
 
 #### ROBOTICS;NOTES ELITE
 RN 的精英版，没什么可说的。
@@ -181,7 +181,7 @@ RN 的精英版，没什么可说的。
 RN 续作，讲述长大了的高中生拯救世界的故事（无端
 SG 里的桶子也有登场，毕竟是联动作品嘛。
 顺带一提，DaSH 的意思是 Daru·the·Super·Hacker（
-<div class="info custom-block"><p class="custom-block-title">官方登陆平台</p><p>PC PS4</p></div><p>
+<div class="note info">官方登陆平台</p><p>PC PS4</p></div>
 <iframe src="https://store.steampowered.com/widget/1111390/" frameborder="0" width="646" height="190"></iframe>
 
 相比前辈，扩张科学 ADV 可以说是最让人看着放心的作品了，不会有惊悚场景和志仓恶意……但也是最惨的系列，被 SG 的光芒掩盖住了，而且小清新的剧情也不怎么能让 SG 的爱好者们满意。
@@ -202,7 +202,7 @@ SG 里的桶子也有登场，毕竟是联动作品嘛。
 然后动画游戏双双暴死（大悲
 游戏至今未发布 PC 版，大约是志仓伤心了吧（
 动画和漫画走向的结局不同，所以我个人推荐是都去看，让游戏自生自灭罢（暴怒
-<div class="info custom-block"><p class="custom-block-title">官方登陆平台</p><p>Xbox PS4 PSV</p></div><p>
+<div class="note info">官方登陆平台</p><p>Xbox PS4 PSV</p></div>
 
 #### ANONYMOUS;CODE
 匿名代码，简称 AC。
@@ -215,7 +215,7 @@ SG 里的桶子也有登场，毕竟是联动作品嘛。
 大多数开发拖了很久的游戏要么是没做，要么是在重做，还能指望啥呢（
 匿码前几章看着挺爽，后面就大翻车，结局也不尽如人意。
 但至少看着还挺青春热血的。
-<div class="info custom-block"><p class="custom-block-title">官方登陆平台</p><p>PC PS4 NS</p></div><p>
+<div class="note info">官方登陆平台</p><p>PC PS4 NS</p></div>
 
 ## 如何入坑？
 简单来讲。
@@ -247,7 +247,7 @@ SG 里的桶子也有登场，毕竟是联动作品嘛。
 我在技术方面可是相当激进的……
 所以我会完全无视原文，直接开始批量修改。
 毕竟是民间汉化，很多词汇的汉化并不到位…而且 5pb.的官方汉化也没整出「森喜刚」之类的恶心玩意，所以我在这里基本参照官方汉化修订。
-<details class="details custom-block"><summary>统一译名表（暂定）</summary><p>
+<details class="note details"><summary>统一译名表（暂定）</summary><p>
 
 以下是统一译名表 (无歧义的就不放了)
 > 菲莉丝·喵喵
