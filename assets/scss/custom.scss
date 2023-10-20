@@ -81,6 +81,7 @@
     line-height: 24px;
     font-size: var(--vpcb-font-size);
     color: var(--card-text-color-main)
+    
 }
 
 .custom-block.info {
@@ -159,6 +160,7 @@
     border-color: var(--vpcb-details-border);
     color: var(--vpcb-details-text);
     background-color: var(--vpcb-details-bg)
+    
 }
 
 .custom-block.details a {
@@ -326,3 +328,21 @@ div.timenode .body {
     display: -moz-box;
     display: inline-block
 }
+
+
+
+
+.article-content h1 ,
+.article-content h2 ,
+.article-content h3 {
+	font-weight: 700;
+	background: linear-gradient(to bottom, transparent 0, rgba(189,202,219,0.3) 0) no-repeat;
+	width: auto;
+}
+
+.article-content h3{
+	font-weight: 500;
+	position: initial;
+}
+
+
