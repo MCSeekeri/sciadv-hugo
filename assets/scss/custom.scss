@@ -112,10 +112,11 @@ div.note {
     padding-left: calc(16px + 16px);
     border-radius: 62px;
     -webkit-border-radius: 4px;
-    /* font-size:.9375rem; */
-    background: #f6f6f6;
+    color : var(--card-text-color-main);
+    background: var(--blockquote-background-color);
     border-left: 4px solid #3dd9b6
 }
+
 
 div.note h2,div.note h3,div.note h4,div.note h5,div.note h6 {
     margin-top: 3px;
@@ -209,4 +210,8 @@ div.note.danger::before,div.note.error::before {
 }
 .article-page .main-article .article-content a{
     color :#2092ec;
+}
+
+.wl-reaction-title {
+    color : var(--card-text-color-main)
 }
