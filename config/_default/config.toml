@@ -24,7 +24,7 @@ FootnoteReturnLinkContents = "↩"
     weight = 3
     identifier = "server"
     [menu.main.params]
-        icon = "server"
+        icon = "rss"
         newTab = true
 
 

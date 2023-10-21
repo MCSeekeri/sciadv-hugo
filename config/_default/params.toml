@@ -14,7 +14,7 @@ lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
 emoji = "🎁"
-subtitle = "然后。我、将这个混账的站点发布了"
+subtitle = "然后。我、将这个混账的站点发布了。"
 
 [sidebar.avatar]
 enabled = true
@@ -101,15 +101,14 @@ autoCreateIssue = false
 
 [comments.waline]
 serverURL = "https://comments.sciadv.mcseekeri.top"
-lang = ""
-visitor = ""
-avatar = ""
+commentSorting = "hottest"
+visitor = true
 requiredMeta = ["name", "email", "url"]
-placeholder = ""
+placeholder = "欢迎在此发表您对本文的看法,本站评论只需填写昵称和接受回复用的邮箱"
 pageview = true
 comment = true
 recaptchaV3Key = "6Lf9KTAbAAAAALfqwFyJmbRTABDc3MwyCKo696gp"
-emoji = ["https://cdn.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/QQ", "https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Tieba", "https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Tieba-New", "https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/weibo", "https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Coolapk", "https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Heybox", "https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/bilibili2233/", "https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Menhera-chan"]
+emoji = ["https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/QQ", "https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Tieba", "https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Tieba-New", "https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/weibo", "https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Coolapk", "https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Heybox", "https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/bilibili2233/", "https://jsd.onmicrosoft.cn/gh/GamerNoTitle/ValineCDN@master/Menhera-chan"]
 reaction = ["https://unpkg.com/@waline/emojis@1.1.0/tieba/tieba_agree.png", "https://unpkg.com/@waline/emojis@1.1.0/tieba/tieba_doubt.png", "https://unpkg.com/@waline/emojis@1.1.0/tieba/tieba_heart.png", "https://unpkg.com/@waline/emojis@1.1.0/tieba/tieba_lovely.png", "https://unpkg.com/@waline/emojis@1.1.0/tieba/tieba_rage.png", "https://unpkg.com/@waline/emojis@1.1.0/tieba/tieba_cry.png", "https://unpkg.com/@waline/emojis@1.1.0/tieba/tieba_awkward.png", "https://unpkg.com/@waline/emojis@1.1.0/tieba/tieba_vomit.png"]
 
 
