@@ -65,7 +65,7 @@ div.timenode .meta:after {
 
 /*鼠标滑动效果*/
 div.timenode .meta:hover {
-    color: #444;
+    color: var(--body-text-color)
 }
 div.timenode:hover .meta:before {
     background: rgba(255,87,34,.5)
@@ -85,7 +85,9 @@ div.timenode .body {
     display: -moz-box;
     display: inline-block
 }
-
+[data-scheme=dark] div.timenode .body {
+    background: #3a3636;
+}
 
 
 
@@ -116,7 +118,9 @@ div.note {
     background: var(--blockquote-background-color);
     border-left: 4px solid #3dd9b6
 }
-
+[data-scheme=dark] div.note {
+    background: #3a3636;
+}
 
 div.note h2,div.note h3,div.note h4,div.note h5,div.note h6 {
     margin-top: 3px;
