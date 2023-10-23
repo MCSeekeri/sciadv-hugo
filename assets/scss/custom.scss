@@ -115,7 +115,7 @@ div.note {
     border-radius: 62px;
     -webkit-border-radius: 4px;
     color : var(--card-text-color-main);
-    background: var(--blockquote-background-color);
+    background: #f6f6f6;
     border-left: 4px solid #3dd9b6
 }
 [data-scheme=dark] div.note {
@@ -134,9 +134,6 @@ div.note blockquote,div.note img,div.note ol,div.note p,div.note ul {
     margin-bottom: .5em
 }
 
-div.note .link-card {
-    background: var(--color-card)
-}
 
 div.note::before {
     position: absolute;
@@ -161,7 +158,6 @@ div.note::before {
 }
 
 div.note.quote {
-    background: #e8f4fd;
     border-color: #2196f3
 }
 
@@ -171,8 +167,7 @@ div.note.quote::before {
 }
 
 div.note.info {
-    background: #ebfbf7;
-    /* border-color:#3dd9b6; */
+    border-color:#3dd9b6; 
 }
 
 div.note.info::before {
@@ -181,7 +176,6 @@ div.note.info::before {
 }
 
 div.note.done,div.note.success {
-    background: #ebf9ed;
     border-color: #3dc550
 }
 
@@ -191,7 +185,6 @@ div.note.done::before,div.note.success::before {
 }
 
 div.note.warning {
-    background: #fff8e9;
     border-color: #ffbd2b
 }
 
@@ -201,7 +194,6 @@ div.note.warning::before {
 }
 
 div.note.danger,div.note.error {
-    background: #feefee;
     border-color: #fe5f58
 }
 
