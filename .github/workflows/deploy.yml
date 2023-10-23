@@ -10,6 +10,8 @@ jobs:
             # Give the default GITHUB_TOKEN write permission to commit and push the
             # added or changed files to the repository.
             contents: write
+            pages: write
+            id-token: write
 
         steps:
             - uses: actions/checkout@v3
@@ -46,3 +48,12 @@ jobs:
                   folder: public
                   clean: true
                   single-commit: true
+            - name: Setup Pages
+              uses: actions/configure-pages@v3
+            - name: Upload artifact
+              uses: actions/upload-pages-artifact@v2
+              with:
+                  path: 'public'
+            - name: Deploy to GitHub Pages
+              id: deployment
+              uses: actions/deploy-pages@v2
