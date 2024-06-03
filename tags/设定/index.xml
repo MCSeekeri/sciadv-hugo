@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>设定 on 科学ADV图书馆</title><link>https://lib.sci-adv.cc/tags/%E8%AE%BE%E5%AE%9A/</link><description>Recent content in 设定 on 科学ADV图书馆</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 10 Aug 2021 12:51:00 +0000</lastBuildDate><atom:link href="https://lib.sci-adv.cc/tags/%E8%AE%BE%E5%AE%9A/index.xml" rel="self" type="application/rss+xml"/><item><title>S;G:负荷领域的既视感 QA 手册</title><link>https://lib.sci-adv.cc/archives/ff129072/</link><pubDate>Tue, 10 Aug 2021 12:51:00 +0000</pubDate><guid>https://lib.sci-adv.cc/archives/ff129072/</guid><description>&lt;img src="https://unpkg.com/sciadvfiles@1.1.3/other/QA.webp" alt="Featured image of post S;G:负荷领域的既视感 QA 手册" />&lt;h2 id="前言">
+&lt;a href="#%e5%89%8d%e8%a8%80">#&lt;/a>
+&lt;strong>前言&lt;/strong>
+&lt;/h2>&lt;p>为了造福广大石学萌新，经过三年的沉寂之后，我们&lt;strong>反物质委员会&lt;/strong>终于重启了命运石之门剧场版《负荷领域的既视感》的 QA 项目。&lt;/p>
+&lt;p>我们通过各种渠道收集反馈，为大家整理出了剧情中几乎所有的疑难问题，并依据原作文本和官方设定，对这些问题给出了足够准确的解答。&lt;/p>
+&lt;p>我们相信通过这本剧场版 QA 手册，一定能消除大家对剧场版的误解，让大家对《负荷领域的既视感》的设定与逻辑有更加深入、客观的认识。&lt;/p>
+&lt;div class="note tip">特别声明&lt;/p>&lt;p>本 QA 手册不代表 MAGES.官方观点，所有分析、结论均为组内讨论达成一致的结果，如有疑问，欢迎留言或&lt;strong>加群&lt;/strong>共同研究。&lt;/p>&lt;/div>
+&lt;div class="note tip">特别提醒&lt;/p>&lt;p>本 QA 仅面向&lt;strong>一周目以上&lt;/strong>观众，在阅读前请确保至少看完命运石之门&lt;strong>本篇 24 话&lt;/strong>+&lt;strong>OVA 以及剧场版&lt;/strong>《负荷领域的既视感》。&lt;/p>&lt;/div>
+&lt;h4 id="特别感谢">
+&lt;a href="#%e7%89%b9%e5%88%ab%e6%84%9f%e8%b0%a2">#&lt;/a>
+特别感谢
+&lt;/h4>&lt;blockquote>
+&lt;p>感谢：&lt;/p>
+&lt;p>&lt;strong>古晟天&lt;/strong>&lt;img src="https://unpkg.com/mcseekeri@1.2.7/avatar/古晟天.jpg" alt="古晟天" width="30">、&lt;strong>刈屋美纱希&lt;/strong>&lt;img src="https://unpkg.com/mcseekeri@1.2.6/avatar/Kariya_Misaki.jpg" alt="刈屋美纱希" width="30"> &lt;strong>某疯狂的科学家&lt;/strong>、&lt;img src="https://unpkg.com/mcseekeri@1.3.0/avatar/%E6%9F%90%E7%96%AF%E7%8B%82%E7%9A%84%E7%A7%91%E5%AD%A6%E5%AE%B6.webp" alt="某疯狂的科学家" width="30"> 将剧场版小说（上/下) 全部内容翻译完成。&lt;/p>
+&lt;p>感谢：&lt;/p>
+&lt;p>&lt;strong>天光逸&lt;/strong>&lt;img src="https://unpkg.com/mcseekeri@1.2.6/avatar/tgy.jpg" alt="天光逸" width="30">、&lt;strong>可爱的 serika&lt;/strong>&lt;img src="https://unpkg.com/mcseekeri@1.2.6/avatar/serika.jpg" alt="可爱的 serika" width="30">&lt;sub>（贴吧 ID:&lt;strong>尾上世莉架&lt;/strong>)&lt;/sub> 给予的&lt;strong>理论支持&lt;/strong>。&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="part-设定解析">
+&lt;a href="#part-%e8%ae%be%e5%ae%9a%e8%a7%a3%e6%9e%90">#&lt;/a>
+PartⅠ &lt;strong>设定解析&lt;/strong>
+&lt;/h2>&lt;h3 id="记忆">
+&lt;a href="#%e8%ae%b0%e5%bf%86">#&lt;/a>
+&lt;strong>记忆&lt;/strong>
+&lt;/h3>&lt;p>（人类的）记忆是一种抽象的概念，是一种基本的心理过程。&lt;/p>
+&lt;p>主观上来说，记忆是客观事实经过某人主观地观测而得出来的情报，大脑会为了使某人接受而去自动对照情报的前后因果关系。&lt;/p>
+&lt;hr>
+&lt;h3 id="短期记忆与长期记忆">
+&lt;a href="#%e7%9f%ad%e6%9c%9f%e8%ae%b0%e5%bf%86%e4%b8%8e%e9%95%bf%e6%9c%9f%e8%ae%b0%e5%bf%86">#&lt;/a>
+&lt;strong>短期记忆与长期记忆&lt;/strong>
+&lt;/h3>&lt;p>当五官感知外界时，会向海马体发送信号，海马体将信号统筹形成短期记忆。&lt;/p>
+&lt;p>短期记忆一般能持续数十秒到数分。&lt;/p>
+&lt;p>而经海马体整理和筛选之后储存到侧头叶上的情报，就是长期记忆。&lt;/p>
+&lt;hr>
+&lt;h3 id="回忆与联想">
+&lt;a href="#%e5%9b%9e%e5%bf%86%e4%b8%8e%e8%81%94%e6%83%b3">#&lt;/a>
+&lt;strong>回忆与联想&lt;/strong>
+&lt;/h3>&lt;p>在五官感知外界时，会向海马体发送信号，海马体会检索侧头叶上已经形成的&lt;emp>长期记忆&lt;/emp>，读取情报，让人意识到这是记忆中的事。这一“意识到”的行为称为回忆。&lt;/p>
+&lt;p>联想则是在海马体收到视听信号开始检索侧头叶上所储存的长期记忆时，由于发生了错误，海马体将过去类似的场景检索出来了，回忆起了当时的事情。&lt;/p>
+&lt;hr>
+&lt;h3 id="观测">
+&lt;a href="#%e8%a7%82%e6%b5%8b">#&lt;/a>
+&lt;strong>观测&lt;/strong>
+&lt;/h3>&lt;p>观测是指观测者（通常指人）通过五官感知客观的外界信息以刺激海马体，使得海马体在侧头叶内的已有信息中进行检索，从而主观地认定或放弃某一因果关系的过程。&lt;/p>
+&lt;p>观测与回忆的概念略有重合，但&lt;strong>观测强调的是回忆这一行为发生的客观过程&lt;/strong>，&lt;strong>而回忆则是人的主观行为&lt;/strong>。&lt;/p>
+&lt;hr>
+&lt;h3 id="客观时系列与主观时系列">
+&lt;a href="#%e5%ae%a2%e8%a7%82%e6%97%b6%e7%b3%bb%e5%88%97%e4%b8%8e%e4%b8%bb%e8%a7%82%e6%97%b6%e7%b3%bb%e5%88%97">#&lt;/a>
+&lt;strong>客观时系列与主观时系列&lt;/strong>
+&lt;/h3>&lt;p>&lt;strong>客观时系列&lt;/strong>：关于当前世界线上何时发生何事，以及世界线自身变动的记录，就像是自动生成的、高视点的&lt;emp>历史年表&lt;/emp>一样。&lt;/p>
+&lt;p>&lt;strong>主观时系列&lt;/strong>：大脑在面对客观时系列时，会不自觉地追寻因果关系并进行主观的记录和整理，由此形成的个人记忆，就是主观时系列。&lt;/p>
+&lt;p>客观时系列和主观时系列的关键区别在于，&lt;strong>主观时系列依附于肉体&lt;/strong>，即人类大脑的相应功能，而&lt;strong>客观时系列与肉体无关&lt;/strong>，存在于“别的什么地方”。&lt;/p>
+&lt;hr>
+&lt;h3 id="未视感">
+&lt;a href="#%e6%9c%aa%e8%a7%86%e6%84%9f">#&lt;/a>
+&lt;strong>未视感&lt;/strong>
+&lt;/h3>&lt;p>在海马体接收到视听信号，并开始检索侧头叶上所储存的长期记忆时，由于发生了错误，导致海马体在检索过程中没能检索到本应该有的长期记忆，于是原本应该很熟悉的事物看起来很陌生。&lt;/p>
+&lt;hr>
+&lt;h3 id="既视感">
+&lt;a href="#%e6%97%a2%e8%a7%86%e6%84%9f">#&lt;/a>
+&lt;strong>既视感&lt;/strong>
+&lt;/h3>&lt;p>&lt;strong>关于当前世界线&lt;/strong>：在海马体接收到视听信号，并开始检索侧头叶上所储存的长期记忆时，由于发生了错误，海马体将过去类似的场景检索出来了，但因为场景太过琐碎不能形成因果关系，人们只能模糊地认识到“以前是不是在什么地方遇到过”。&lt;/p>
+&lt;p>&lt;strong>关于世界线变动&lt;/strong>：侧头叶上储存的长期记忆在世界线变动的过程中被替换了，但是依然有残缺的拼图没能被彻底删除。在接收到视听信号开始检索侧头叶上所储存的长期记忆时，海马体检索到了这些拼图碎片，但同样因为场景太过琐碎不能形成因果关系，人们只能模糊地认识到“以前是不是在什么地方遇到过”。&lt;/p>
+&lt;hr>
+&lt;h3 id="普通人在世界线变动过程中的记忆变化">
+&lt;a href="#%e6%99%ae%e9%80%9a%e4%ba%ba%e5%9c%a8%e4%b8%96%e7%95%8c%e7%ba%bf%e5%8f%98%e5%8a%a8%e8%bf%87%e7%a8%8b%e4%b8%ad%e7%9a%84%e8%ae%b0%e5%bf%86%e5%8f%98%e5%8c%96">#&lt;/a>
+&lt;strong>普通人在世界线变动过程中的记忆变化&lt;/strong>
+&lt;/h3>&lt;p>由于时间机器会导致因果关系的断层，所以世界需要重构来对因果进行调整。&lt;/p>
+&lt;p>与此同时，储存在人们侧头叶里的记忆也会基于大脑的自我保护机制进行自我调节，用以配对新世界线上情报的逻辑构成。人们的记忆合乎当前世界线上的逻辑，于是他们主观上会接受新世界线的情报而排斥脑内残存的零碎的旧世界线情报。&lt;/p>
+&lt;hr>
+&lt;h3 id="新型脑炎sub出现在命运石之门-0中sub">
+&lt;a href="#%e6%96%b0%e5%9e%8b%e8%84%91%e7%82%8esub%e5%87%ba%e7%8e%b0%e5%9c%a8%e5%91%bd%e8%bf%90%e7%9f%b3%e4%b9%8b%e9%97%a8-0%e4%b8%adsub">#&lt;/a>
+&lt;strong>新型脑炎&lt;/strong>&lt;sub>&lt;em>出现在&lt;/em>《&lt;em>命运石之门&lt;/em> &lt;em>0&lt;/em>》&lt;em>中&lt;/em>&lt;/sub>
+&lt;/h3>&lt;p>世界线变化后，有一部分人产生了经历过“另一种生活”的隐约的记忆。&lt;/p>
+&lt;p>这是由于新型脑炎患者的侧头叶自我调节功能弱于正常人，导致了新世界线的情报没能完全替换掉旧世界线的情报，于是在新世界线上海马体接收到外界视听信号开始检索侧头叶的情报的时候，由于发生了错误，海马体将这些类似的未被替换掉的旧世界线情报检索出来了。&lt;/p>
+&lt;p>由于新型脑炎患者拥有较多且完整的旧世界线情报，他们的大脑会对这些情报按照因果关系进行整理，于是患者就将这些情报视为自己的记忆，保存了下来。&lt;/p>
+&lt;hr>
+&lt;h3 id="reading-steiner-的过程">
+&lt;a href="#reading-steiner-%e7%9a%84%e8%bf%87%e7%a8%8b">#&lt;/a>
+&lt;strong>Reading Steiner 的过程&lt;/strong>
+&lt;/h3>&lt;p>从一条世界线变化至另一条世界线的过程中，冈部伦太郎感受到头痛的同时产生&lt;strong>记忆的断层&lt;/strong>。&lt;/p>
+&lt;p>这是由于冈部的大脑有缺陷，侧头叶无法进行自我调节，于是在世界线变化的过程中，其记忆并未随着历史的重构而重构，而是保留了旧世界线的情报，没能获取到新世界线的情报。&lt;/p>
+&lt;hr>
+&lt;h3 id="r-世界线">
+&lt;a href="#r-%e4%b8%96%e7%95%8c%e7%ba%bf">#&lt;/a>
+&lt;strong>R 世界线&lt;/strong>
+&lt;/h3>&lt;p>未来的牧濑红莉栖针对冈部伦太郎消失的现象所提出的一种&lt;strong>假说&lt;/strong>，其变动率不详。&lt;/p>
+&lt;p>未来的牧濑红莉栖暂且将其设定为相对命运石之门世界线偏离了 0.000001%。&lt;/p>
+&lt;p>其中&lt;strong>R&lt;/strong>代表&lt;code>Revers&lt;/code> ，取自“&lt;strong>S&lt;/strong>”（Steins;Gate）的旁边，既代表 R 世界线为命运石之门世界线的“负”、“反面”，又代表其与命运石之门世界线成对，呈现出类似&lt;strong>双重螺旋的伴生结构&lt;/strong>。&lt;/p>
+&lt;div class="note tip">提示&lt;/p>&lt;p>Part II 部分的&lt;a href="#Q10">&lt;strong>Q10&lt;/strong>&lt;/a>将详细解释 R 世界线的性质，以及该设定对命运石之门的世界观而言有怎样的意义，当前部分的解析仅为小说中铃羽的描述&lt;/p>&lt;/div>
+&lt;hr>
+&lt;h3 id="记忆空间">
+&lt;a href="#%e8%ae%b0%e5%bf%86%e7%a9%ba%e9%97%b4">#&lt;/a>
+&lt;strong>记忆空间&lt;/strong>
+&lt;/h3>&lt;p>民间提出的一种对命运石之门世界观的设想。&lt;/p>
+&lt;p>在（物理性的）世界之外，存在一种&lt;strong>特殊的领域&lt;/strong>，即存储了大量可能性世界的“回收站”，具体可能包含全部的可能性世界，也可能只包含与当前运行的世界线有联系的狭小范围。&lt;/p>
+&lt;p>这一领域与人的大脑中存储记忆的区域直接相连。世界线发生变动时，人的记忆会根据因果关系进行重构，而重构就是大脑中旧世界线的记忆与记忆空间中新世界线的记忆发生替换的过程。&lt;/p>
+&lt;p>在官方衍生小说&lt;span style="color: #2196f3;">命运石之门 3 境界面上的 Steins;Gate: Rebirth&lt;/span>中曾有类似的&lt;strong>描述&lt;/strong>|&lt;sub>由贴吧吧友 qq223344qqq 翻译&lt;/sub>&lt;/p>
+&lt;blockquote>
+&lt;p>“即便是冈部的大脑，在发生世界线变动的时候，肯定也是经过了替换这一过程的才对。但是冈部却保持了变动前的记忆。……不如说，在来到新世界线的时候，记忆没有被替换。也就是说记忆领域，在大脑的外部。&lt;/p>
+&lt;p>说不定在外部有着一个类似电脑系统备份系统似的东西，现阶段也只能这么想。可是只要世界线的变动会波及到所有纯物理的事象，而且那个备份系统也在世界线的内侧的话，那个它也难逃因世界线变动而带来的改写。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;strong>既然如此&lt;/strong>，&lt;strong>经过世界线变动&lt;/strong>，&lt;strong>仍能保持记忆的记忆领域&lt;/strong>，&lt;strong>就变成了存在于世界之外的东西&lt;/strong>。至少可以确定，一定不会是物理性的数据资料。”&lt;/p>
+&lt;div class="note tip">&lt;/p>&lt;p>尽管官方在衍生物中对记忆空间这一设定给出了足够多的暗示，但记忆空间目前依旧只是&lt;strong>民间&lt;/strong>用于解释 R 世界线性质的一种方式，而非官方明确在作品或设定集里给出的标准答案。具体以官方的后续更新为准&lt;/p>&lt;/div>
+&lt;hr>
+&lt;h2 id="part--questions--answers">
+&lt;a href="#part--questions--answers">#&lt;/a>
+Part Ⅱ &lt;strong>Questions &amp;amp; Answers&lt;/strong>
+&lt;/h2>&lt;h3 id="1剧场版算是官方的正统续作吗">
+&lt;a href="#1%e5%89%a7%e5%9c%ba%e7%89%88%e7%ae%97%e6%98%af%e5%ae%98%e6%96%b9%e7%9a%84%e6%ad%a3%e7%bb%9f%e7%bb%ad%e4%bd%9c%e5%90%97">#&lt;/a>
+1.&lt;strong>剧场版算是官方的正统续作吗&lt;/strong>？
+&lt;/h3>&lt;p>剧场版是官方的正统续作。&lt;/p>
+&lt;p>其中&lt;strong>R 世界线&lt;/strong>等设定对命运石之门的世界观起到了关键的填充作用，并非像流传的谣言：“剧场版不严谨，只是图一乐”、“剧场版毁了本篇”、“剧场版就是本篇的官方同人”所说的那样。&lt;/p>
+&lt;h3 id="2剧场版小说与剧场版动画有什么联系">
+&lt;a href="#2%e5%89%a7%e5%9c%ba%e7%89%88%e5%b0%8f%e8%af%b4%e4%b8%8e%e5%89%a7%e5%9c%ba%e7%89%88%e5%8a%a8%e7%94%bb%e6%9c%89%e4%bb%80%e4%b9%88%e8%81%94%e7%b3%bb">#&lt;/a>
+2.&lt;strong>剧场版小说与剧场版动画有什么联系&lt;/strong>？
+&lt;/h3>&lt;p>剧场版小说将命运石之门本篇 OVA 及剧场版动画进行了结合，更加完整且详细地讲述了冈部伦太郎到达命运石之门世界线之后一年内的故事。&lt;/p>
+&lt;p>其中对 R 世界线等设定的补充比起剧场版动画中的描述更加详细也更为准确，是命运石之门衍生作品中&lt;strong>必读的一部&lt;/strong>。&lt;/p>
+&lt;h3 id="3阿万音铃羽为什么会带着和桥田至很像的帽子">
+&lt;a href="#3%e9%98%bf%e4%b8%87%e9%9f%b3%e9%93%83%e7%be%bd%e4%b8%ba%e4%bb%80%e4%b9%88%e4%bc%9a%e5%b8%a6%e7%9d%80%e5%92%8c%e6%a1%a5%e7%94%b0%e8%87%b3%e5%be%88%e5%83%8f%e7%9a%84%e5%b8%bd%e5%ad%90">#&lt;/a>
+3.&lt;strong>阿万音铃羽为什么会带着和桥田至很像的帽子&lt;/strong>？
+&lt;/h3>&lt;p>或许仅仅是铃羽的个人喜好，抑或未来的桶子特意送过她一顶相同样式的帽子。&lt;/p>
+&lt;h3 id="4阿万音铃羽所在未来的世界线与冈部伦太郎回归后的世界线都是命运石之门世界线吗">
+&lt;a href="#4%e9%98%bf%e4%b8%87%e9%9f%b3%e9%93%83%e7%be%bd%e6%89%80%e5%9c%a8%e6%9c%aa%e6%9d%a5%e7%9a%84%e4%b8%96%e7%95%8c%e7%ba%bf%e4%b8%8e%e5%86%88%e9%83%a8%e4%bc%a6%e5%a4%aa%e9%83%8e%e5%9b%9e%e5%bd%92%e5%90%8e%e7%9a%84%e4%b8%96%e7%95%8c%e7%ba%bf%e9%83%bd%e6%98%af%e5%91%bd%e8%bf%90%e7%9f%b3%e4%b9%8b%e9%97%a8%e4%b8%96%e7%95%8c%e7%ba%bf%e5%90%97">#&lt;/a>
+4.&lt;strong>阿万音铃羽所在未来的世界线与冈部伦太郎回归后的世界线，都是命运石之门世界线吗？&lt;/strong>
+&lt;/h3>&lt;p>是的，广义上来说都是命运石之门世界线。或许由于冈部的消失，世界线变动率有小数点六位之后的细微变动，但小数点六位之前的数字一直是 1.048596%&lt;/p>
+&lt;h3 id="5为什么世界上消失了一个人世界线变动率却没有发生变化">
+&lt;a href="#5%e4%b8%ba%e4%bb%80%e4%b9%88%e4%b8%96%e7%95%8c%e4%b8%8a%e6%b6%88%e5%a4%b1%e4%ba%86%e4%b8%80%e4%b8%aa%e4%ba%ba%e4%b8%96%e7%95%8c%e7%ba%bf%e5%8f%98%e5%8a%a8%e7%8e%87%e5%8d%b4%e6%b2%a1%e6%9c%89%e5%8f%91%e7%94%9f%e5%8f%98%e5%8c%96">#&lt;/a>
+5.&lt;strong>为什么世界上消失了一个人，世界线变动率却没有发生变化？&lt;/strong>
+&lt;/h3>&lt;p>因为冈部的&lt;strong>消失&lt;/strong>——或者说变为&lt;strong>不可视&lt;/strong>——只是他个人的存在状态问题，对命运石之门世界线的历史影响微乎其微。&lt;/p>
+&lt;p>（即便铃羽从未来回到过去对世界线产生了一定程度的干涉，也没有使世界线脱离命运石之门世界线的范围）&lt;/p>
+&lt;h3 id="6为什么牧濑红莉栖为冈部伦太郎购买的白大褂不会随着冈部伦太郎消失">
+&lt;a href="#6%e4%b8%ba%e4%bb%80%e4%b9%88%e7%89%a7%e6%bf%91%e7%ba%a2%e8%8e%89%e6%a0%96%e4%b8%ba%e5%86%88%e9%83%a8%e4%bc%a6%e5%a4%aa%e9%83%8e%e8%b4%ad%e4%b9%b0%e7%9a%84%e7%99%bd%e5%a4%a7%e8%a4%82%e4%b8%8d%e4%bc%9a%e9%9a%8f%e7%9d%80%e5%86%88%e9%83%a8%e4%bc%a6%e5%a4%aa%e9%83%8e%e6%b6%88%e5%a4%b1">#&lt;/a>
+6.&lt;strong>为什么牧濑红莉栖为冈部伦太郎购买的白大褂不会随着冈部伦太郎消失？&lt;/strong>
+&lt;/h3>&lt;p>根据&lt;strong>Q5&lt;/strong>，世界线并未完全重构，只是经历了小数点六位之后的“&lt;emp>微小变化&lt;/emp>”，因此冈部并不是完全意义上的“消失”——即与他有关联的物品、事件都不会消失，只是他个人的存在状态发生了变化。&lt;/p>
+&lt;h3 id="7冈部伦太郎消失的时间是固定的吗">
+&lt;a href="#7%e5%86%88%e9%83%a8%e4%bc%a6%e5%a4%aa%e9%83%8e%e6%b6%88%e5%a4%b1%e7%9a%84%e6%97%b6%e9%97%b4%e6%98%af%e5%9b%ba%e5%ae%9a%e7%9a%84%e5%90%97">#&lt;/a>
+7.&lt;strong>冈部伦太郎消失的时间是固定的吗？&lt;/strong>
+&lt;/h3>&lt;p>时段大致固定，但具体时间不详。&lt;/p>
+&lt;p>冈部的&lt;strong>第一次&lt;/strong>消失是在&lt;span style="color: #1bcdfc;">8 月 4 日中午 11:35&lt;/span>之后，红莉栖洗澡后去洗衣房遇见他时。&lt;/p>
+&lt;p>冈部的&lt;strong>第二次&lt;/strong>消失是在&lt;span style="color: #1bcdfc;">8 月 4 日上午 10:36&lt;/span>。冈部给红莉栖发送了“&lt;strong>さよなら&lt;/strong>”的邮件，并在红莉栖狂奔抵达 Lab 后恰好消失。&lt;/p>
+&lt;h3 id="8铃羽所说的让牧濑红莉栖成为观测者是什么意思">
+&lt;a href="#8%e9%93%83%e7%be%bd%e6%89%80%e8%af%b4%e7%9a%84%e8%ae%a9%e7%89%a7%e6%bf%91%e7%ba%a2%e8%8e%89%e6%a0%96%e6%88%90%e4%b8%ba%e8%a7%82%e6%b5%8b%e8%80%85%e6%98%af%e4%bb%80%e4%b9%88%e6%84%8f%e6%80%9d">#&lt;/a>
+8.&lt;strong>铃羽所说的“让牧濑红莉栖成为观测者”是什么意思？&lt;/strong>
+&lt;/h3>&lt;p>受世界线重构机制的限制，一般人是无法记录世界线变动的过程的。&lt;/p>
+&lt;p>而铃羽这句话的意思，就是让红莉栖通过时间跳跃，去观测时间跳跃前发生的历史，进而与自身的记忆进行比对，从而感受到强烈的差异性，这种差异性直接指向“{% u 客观时间序列中曾经发生过冈部伦太郎在 8 月 4 日消失 %}”这一结论。&lt;/p>
+&lt;p>而这一结论，强化了这种差异性在红莉栖脑中的&lt;strong>因果关系&lt;/strong>，使其在红莉栖脑中产生强烈的印象。此时，红莉栖就有了成为所谓的“观测者”的特质：她认识到两条世界线的不同，并且可以主观地进行改变。&lt;/p>
+&lt;p>除此之外，这种差异性还在另一个层面上发挥了作用：当红莉栖脑内有关冈部的记忆被世界重构消失后，她对新世界线情报的检索，会不自觉地检索到这条“跨世界线”的因果关系上，红莉栖就会出现极强烈的“既视感”或“违和感”，使她拥有回想起冈部的基础。&lt;/p>
+&lt;h3 id="9为什么第一次时间跳跃后的牧濑红莉栖对冈部伦太郎-8-月-3-日晚的两次暂时消失与-8-月-4-日上午的彻底消失的反应不同">
+&lt;a href="#9%e4%b8%ba%e4%bb%80%e4%b9%88%e7%ac%ac%e4%b8%80%e6%ac%a1%e6%97%b6%e9%97%b4%e8%b7%b3%e8%b7%83%e5%90%8e%e7%9a%84%e7%89%a7%e6%bf%91%e7%ba%a2%e8%8e%89%e6%a0%96%e5%af%b9%e5%86%88%e9%83%a8%e4%bc%a6%e5%a4%aa%e9%83%8e-8-%e6%9c%88-3-%e6%97%a5%e6%99%9a%e7%9a%84%e4%b8%a4%e6%ac%a1%e6%9a%82%e6%97%b6%e6%b6%88%e5%a4%b1%e4%b8%8e-8-%e6%9c%88-4-%e6%97%a5%e4%b8%8a%e5%8d%88%e7%9a%84%e5%bd%bb%e5%ba%95%e6%b6%88%e5%a4%b1%e7%9a%84%e5%8f%8d%e5%ba%94%e4%b8%8d%e5%90%8c">#&lt;/a>
+9.&lt;strong>为什么第一次时间跳跃后的牧濑红莉栖，对冈部伦太郎 8 月 3 日晚的两次暂时消失与 8 月 4 日上午的彻底消失的反应不同？&lt;/strong>
+&lt;/h3>&lt;p>冈部彻底消失的时候，世界对相关记忆的删除相较于冈部暂时消失时更为彻底，所以作为观测者的红莉栖，在冈部暂时消失的时候，能够清楚地回想起冈部的存在，并未出现遗忘的现象；&lt;/p>
+&lt;p>而在冈部彻底消失的时候，红莉栖需要努力回想一段时间，才可以勉强回想起冈部的存在。&lt;/p>
+&lt;p id="Q10"> &lt;/p>
+&lt;h3 id="10r-世界线究竟是什么为什么会和命运石之门世界线同时存在这代表剧场版的设定是平行世界吗">
+&lt;a href="#10r-%e4%b8%96%e7%95%8c%e7%ba%bf%e7%a9%b6%e7%ab%9f%e6%98%af%e4%bb%80%e4%b9%88%e4%b8%ba%e4%bb%80%e4%b9%88%e4%bc%9a%e5%92%8c%e5%91%bd%e8%bf%90%e7%9f%b3%e4%b9%8b%e9%97%a8%e4%b8%96%e7%95%8c%e7%ba%bf%e5%90%8c%e6%97%b6%e5%ad%98%e5%9c%a8%e8%bf%99%e4%bb%a3%e8%a1%a8%e5%89%a7%e5%9c%ba%e7%89%88%e7%9a%84%e8%ae%be%e5%ae%9a%e6%98%af%e5%b9%b3%e8%a1%8c%e4%b8%96%e7%95%8c%e5%90%97">#&lt;/a>
+10.&lt;strong>R 世界线究竟是什么？为什么会和命运石之门世界线同时存在？这代表剧场版的设定是平行世界吗？&lt;/strong>
+&lt;/h3>&lt;p>R 世界线由于其特殊性，并不能和一般意义上的世界线相提并论。&lt;/p>
+&lt;p>虽然剧场版中铃羽（和未来的红莉栖）以 R 世界线来称呼它，但从剧情以及描述来看，比起世界线，它更像是一个“世界的垃圾箱”，存储着不属于命运石之门世界线的（一定范围）的历史。&lt;/p>
+&lt;hr>
+&lt;ul>
+&lt;li>为什么会诞生这样一条 R 世界线？&lt;/li>
+&lt;/ul>
+&lt;p>因为命运石之门世界线是处于α、β两大收束范围之间的“理想”、“奇迹般”的世界线，相较于α与β收束范围内的一般世界线更加不稳定，会产生摇晃、波动。从设定集和年表来看，命运石之门世界线的确存在某些违和之处，其因果有一些不牢靠的地方。例如冈部浑身是血地出现在广播馆天台的原因，桶子与真由理赶来将冈部送到医院的原因等都难以解释。&lt;/p>
+&lt;p>因此，R 世界线应运而生，作为命运石之门世界线的“反面”，支撑着命运石之门世界线的因果。如果没有 R 世界线的存在，命运石之门世界线可能无法维持存续，导向崩坏。&lt;/p>
+&lt;p>&lt;strong>（在这个解释下，剧场版的标题“负荷领域”既可以被理解为冈部由于承载的记忆超负荷而偏移到的领域，也可以被理解为支撑了命运石之门世界线因果的领域。）&lt;/strong>&lt;/p>
+&lt;p>如此，&lt;strong>由于 R 世界线不属于常规意义上的世界线，而是一个储存了大范围其它世界线历史的“数据库”，因此剧场版并没有出现两条世界线同时存在、所谓“平行世界”这样违背本篇设定的 BUG。&lt;/strong>&lt;/p>
+&lt;div class="note tip">&lt;/p>&lt;p>也存在另一种观点：R 世界线并非命运石之门世界线所特有的，每条世界线都存在对应的 Reverse 世界线，只是由于命运石之门世界线相较一般的世界线更不稳定，因此 R 世界线更容易被观测到。&lt;/p>&lt;/div>
+&lt;hr>
+&lt;p>以下摘自剧场版小说原文：&lt;/p>
+&lt;blockquote>
+&lt;p>在现象的地平线彼岸，时间和空间的作用互换了。&lt;/p>
+&lt;p>能够到达任何时间点，却哪儿也去不了。无法确定的事实、无法确定的认识、无法确定的存在。&lt;/p>
+&lt;p>摇曳着，&lt;strong>虽说是 R 世界线，却没有实感。什么都是不确定的，所谓世界线只是虚名的概念。&lt;/strong>&lt;/p>
+&lt;p>如果作为现实观测的东西没有确定下来的话，观测那个东西的人也不可能存在，即使是意识也不能存在，这是认识的黑洞。&lt;/p>
+&lt;p>即使思考变成光那般迅速，电位信号在神经元上来回奔跑，这种想法也是谁都……哪里都，甚至连自己都传达不到。&lt;/p>
+&lt;p>没有接收者。过去和未来的夹缝之间应该存在着的「现在」，因为极大的扩张而消失了。&lt;/p>
+&lt;p>&lt;strong>如果没有猜错的话，那里有着已经发生却又没发生的事情。那里是装满了被从合理的世界线扔掉的不合理的记忆的垃圾箱。&lt;/strong>&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="11冈部伦太郎从命运石之门世界线消失的原因是什么">
+&lt;a href="#11%e5%86%88%e9%83%a8%e4%bc%a6%e5%a4%aa%e9%83%8e%e4%bb%8e%e5%91%bd%e8%bf%90%e7%9f%b3%e4%b9%8b%e9%97%a8%e4%b8%96%e7%95%8c%e7%ba%bf%e6%b6%88%e5%a4%b1%e7%9a%84%e5%8e%9f%e5%9b%a0%e6%98%af%e4%bb%80%e4%b9%88">#&lt;/a>
+11.&lt;strong>冈部伦太郎从命运石之门世界线消失的原因是什么？&lt;/strong>
+&lt;/h3>&lt;p>与一般人不同，由于 Reading Steiner 的原因，冈部的记忆是断片化的、不连续的。大量来自其它世界线的记忆给他的大脑造成了严重的负担，使他的主观认知感受到了命运石之门世界线的摇晃，逐渐向包含了其它世界线历史的 R 世界线偏移，并影响到了冈部自身的&lt;strong>存在状态&lt;/strong>&lt;a class="link" href="#note-state" >(📢)&lt;/a>。&lt;/p>
+&lt;p>最终冈部偏移到了所有人的主观认知之外，他们脑内有关冈部的记忆尽数消失，呈现出了“冈部伦太郎消失，且世界上无人知道他的存在”的异常状态。&lt;/p>
+&lt;p>以下内容摘自剧场版小说原文：&lt;/p>
+&lt;blockquote>
+&lt;p>“在众多世界线中漂流的记忆……由于「Reading Steiner」的负担越来越重，导致冈部伦太郎主观上感知到了波动，移动到了 R 世界线。”&lt;/p>
+&lt;p>“然后……在这条世界线上就变成了，冈部原本就不存在……？”&lt;/p>
+&lt;p>“嗯…… &lt;strong>与其说他是移动了，不如说他是到我们的认知之外了，这样更恰当吧。世界线应该还没有移动，但世界却必须要消除关于他的记忆。&lt;/strong> 这种情况相当异常啊。”&lt;/p>
+&lt;p>……&lt;/p>
+&lt;p>&lt;strong>“冈部伦太郎受到了其他世界线的影响，无法建立这条命运石之门世界线就是现实世界线的认识。”&lt;/strong>&lt;/p>
+&lt;p>铃羽说道。&lt;/p>
+&lt;p>对他而言，这条世界线的现实感远不如充满生命危险的α世界线收束，甚至连β世界线收束也比不上。在这条和平得无聊的“理想”的命运石之门世界线上活着的实感、现实感正在变弱。&lt;/p>
+&lt;p id="note-state"> &lt;/p>
+&lt;p>这就是冈部伦太郎及其「Reading Steiner」的脆弱性。&lt;/p>
+&lt;p>“——所以他无法认知了。换种说法就是，&lt;strong>冈部伦太郎到了自己能够认知 R 世界线，而 R 世界线正是别的世界线的“负荷”记忆的领域。&lt;/strong>”&lt;/p>
+&lt;/blockquote>
+&lt;div class="note tip">&lt;/p>&lt;p>这里并没有解释冈部对世界线的认知为什么会影响到他的存在状态，该问题目前没有定论，官方也没有提及。不过 QA 制作组对这个问题有一个涉及科学 ADV 系列整体设定的猜想，可惜这里空白太小，写不下（与这篇剧场版 QA 关联很小，因此暂不详谈，请持续关注本 QA 制作组，也许未来会发相关解析？）。&lt;/p>&lt;/div>
+&lt;h3 id="12为什么在-8-月-3-日晚的-lab-中冈部伦太郎会忽然身临其境一般地看到α世界线的记忆">
+&lt;a href="#12%e4%b8%ba%e4%bb%80%e4%b9%88%e5%9c%a8-8-%e6%9c%88-3-%e6%97%a5%e6%99%9a%e7%9a%84-lab-%e4%b8%ad%e5%86%88%e9%83%a8%e4%bc%a6%e5%a4%aa%e9%83%8e%e4%bc%9a%e5%bf%bd%e7%84%b6%e8%ba%ab%e4%b8%b4%e5%85%b6%e5%a2%83%e4%b8%80%e8%88%ac%e5%9c%b0%e7%9c%8b%e5%88%b0%ce%b1%e4%b8%96%e7%95%8c%e7%ba%bf%e7%9a%84%e8%ae%b0%e5%bf%86">#&lt;/a>
+12.&lt;strong>为什么在 8 月 3 日晚的 Lab 中，冈部伦太郎会忽然身临其境一般地看到α世界线的记忆？&lt;/strong>
+&lt;/h3>&lt;p>因为冈部的主观认知正在向 R 世界线偏移，因此很容易在类似的场景“幻视”到自己曾经在α世界线经历过的事情。&lt;/p>
+&lt;h3 id="13为什么-8-月-3-日晚在-lab-外冈部伦太郎会看到他没有实际经历过的游戏中的支线剧情铃羽线黑化小动物">
+&lt;a href="#13%e4%b8%ba%e4%bb%80%e4%b9%88-8-%e6%9c%88-3-%e6%97%a5%e6%99%9a%e5%9c%a8-lab-%e5%a4%96%e5%86%88%e9%83%a8%e4%bc%a6%e5%a4%aa%e9%83%8e%e4%bc%9a%e7%9c%8b%e5%88%b0%e4%bb%96%e6%b2%a1%e6%9c%89%e5%ae%9e%e9%99%85%e7%bb%8f%e5%8e%86%e8%bf%87%e7%9a%84%e6%b8%b8%e6%88%8f%e4%b8%ad%e7%9a%84%e6%94%af%e7%ba%bf%e5%89%a7%e6%83%85%e9%93%83%e7%be%bd%e7%ba%bf%e9%bb%91%e5%8c%96%e5%b0%8f%e5%8a%a8%e7%89%a9">#&lt;/a>
+13.&lt;strong>为什么 8 月 3 日晚在 Lab 外，冈部伦太郎会看到他没有实际经历过的游戏中的支线剧情（铃羽线、黑化小动物）？&lt;/strong>
+&lt;/h3>&lt;p>由于命运石之门世界线是建立在α、β两大收束范围因果的基础上的，因此当世界线变动至命运石之门世界线的时候，世界将α、β两大收束范围中的所有情报当作“垃圾”扔进了 R 世界线，作为命运石之门世界线因果的支撑。&lt;/p>
+&lt;p>所以，R 世界线中也包含了冈部没有实际经历，但在变动过程中可能存在的世界线。&lt;/p>
+&lt;p>所以冈部在主观认知向 R 世界线偏移的过程中，他也会接触到这些自己没有实际经历过的可能性。&lt;/p>
+&lt;h3 id="14在剧场版广播剧现存在的后验中为什么铃羽会在时间机器实验中梦见了α世界线的自己狙杀牧濑红莉栖以及母亲在自己的怀中死去这两件事">
+&lt;a href="#14%e5%9c%a8%e5%89%a7%e5%9c%ba%e7%89%88%e5%b9%bf%e6%92%ad%e5%89%a7%e7%8e%b0%e5%ad%98%e5%9c%a8%e7%9a%84%e5%90%8e%e9%aa%8c%e4%b8%ad%e4%b8%ba%e4%bb%80%e4%b9%88%e9%93%83%e7%be%bd%e4%bc%9a%e5%9c%a8%e6%97%b6%e9%97%b4%e6%9c%ba%e5%99%a8%e5%ae%9e%e9%aa%8c%e4%b8%ad%e6%a2%a6%e8%a7%81%e4%ba%86%ce%b1%e4%b8%96%e7%95%8c%e7%ba%bf%e7%9a%84%e8%87%aa%e5%b7%b1%e7%8b%99%e6%9d%80%e7%89%a7%e6%bf%91%e7%ba%a2%e8%8e%89%e6%a0%96%e4%bb%a5%e5%8f%8a%e6%af%8d%e4%ba%b2%e5%9c%a8%e8%87%aa%e5%b7%b1%e7%9a%84%e6%80%80%e4%b8%ad%e6%ad%bb%e5%8e%bb%e8%bf%99%e4%b8%a4%e4%bb%b6%e4%ba%8b">#&lt;/a>
+14.&lt;strong>在剧场版广播剧《现存在的后验》中，为什么铃羽会在时间机器实验中梦见了“α世界线的自己狙杀牧濑红莉栖”以及“母亲在自己的怀中死去”这两件事？&lt;/strong>
+&lt;/h3>&lt;p>铃羽在多次进行时间机器实验后，作为时间旅行者的她可能也在主观上感知到了命运石之门世界线的摇晃，从而接触到了 R 世界线中其它世界线的历史片段。&lt;/p>
+&lt;p>这也是红莉栖知道这件事后决定停止时间机器实验的原因，她害怕继续实验下去会使铃羽落得和冈部一样的下场。&lt;/p>
+&lt;h3 id="15牧濑红莉栖遇见小时候的冈部伦太郎时为什么会出现一段时间少女时期的牧濑红莉栖">
+&lt;a href="#15%e7%89%a7%e6%bf%91%e7%ba%a2%e8%8e%89%e6%a0%96%e9%81%87%e8%a7%81%e5%b0%8f%e6%97%b6%e5%80%99%e7%9a%84%e5%86%88%e9%83%a8%e4%bc%a6%e5%a4%aa%e9%83%8e%e6%97%b6%e4%b8%ba%e4%bb%80%e4%b9%88%e4%bc%9a%e5%87%ba%e7%8e%b0%e4%b8%80%e6%ae%b5%e6%97%b6%e9%97%b4%e5%b0%91%e5%a5%b3%e6%97%b6%e6%9c%9f%e7%9a%84%e7%89%a7%e6%bf%91%e7%ba%a2%e8%8e%89%e6%a0%96">#&lt;/a>
+15.&lt;strong>牧濑红莉栖遇见小时候的冈部伦太郎时，为什么会出现一段时间少女时期的牧濑红莉栖？&lt;/strong>
+&lt;/h3>&lt;p>这一段实际上是一种&lt;emp>演出手法&lt;/emp>，并不是指红莉栖实际的形象变成了少女，&lt;strong>而是通过这一形象表现出红莉栖此时迷茫、孤独的心境，恰好和她身边少年时期的冈部是一样的&lt;/strong>。&lt;a class="link" href="#note-kiuma" >(📢)&lt;/a>&lt;/p>
+&lt;p>以下内容摘自&lt;strong>剧场版设定集&lt;/strong>中关于该问题的问答：&lt;/p>
+&lt;blockquote>
+&lt;p>“——这一次，在东池袋的杂司谷，正在跟小时候的冈部搭话的牧濑红莉栖突然变成了某一天的小时候的牧濑红莉栖。这样的画面上的变化，佐藤总监督是如何构思的呢？&lt;/p>
+&lt;p id="note-kiuma">&lt;/p>
+&lt;p>佐藤：这里是不想用语言来限制意义的部分。&lt;strong>我们想描绘少年时代，无法阻止真由理，只能独自迷茫的冈部，与一样无能为力、迷茫的牧濑红莉栖，想把两个人的感情重叠在一起，这就是我们要表达的意思。&lt;/strong>”&lt;/p>
+&lt;/blockquote>
+&lt;div class="note tip">&lt;/p>&lt;p>本段剧情与命运石之门 0 中，β世界线上冈部与篝相遇的经历并没有直接联系。（也许 0 中描写这段经历时参考了剧场版的剧情，而非弹幕谣传的那种相反的创作顺序，例如“红莉栖代替了当时的篝”。&lt;/p>&lt;/div>
+&lt;h3 id="16冈部伦太郎是如何在牧濑红莉栖的帮助下回到命运石之门世界线的为什么红莉栖选择回到-2005-年-6-月-30-日">
+&lt;a href="#16%e5%86%88%e9%83%a8%e4%bc%a6%e5%a4%aa%e9%83%8e%e6%98%af%e5%a6%82%e4%bd%95%e5%9c%a8%e7%89%a7%e6%bf%91%e7%ba%a2%e8%8e%89%e6%a0%96%e7%9a%84%e5%b8%ae%e5%8a%a9%e4%b8%8b%e5%9b%9e%e5%88%b0%e5%91%bd%e8%bf%90%e7%9f%b3%e4%b9%8b%e9%97%a8%e4%b8%96%e7%95%8c%e7%ba%bf%e7%9a%84%e4%b8%ba%e4%bb%80%e4%b9%88%e7%ba%a2%e8%8e%89%e6%a0%96%e9%80%89%e6%8b%a9%e5%9b%9e%e5%88%b0-2005-%e5%b9%b4-6-%e6%9c%88-30-%e6%97%a5">#&lt;/a>
+16.&lt;strong>冈部伦太郎是如何在牧濑红莉栖的帮助下回到命运石之门世界线的？为什么红莉栖选择回到 2005 年 6 月 30 日？&lt;/strong>
+&lt;/h3>&lt;p>冈部消失的原因，是其主观认知无法感受到命运石之门世界线的实在，因此红莉栖通过回到 2005 年夺取 13 岁冈部的初吻（这一从未发生过但又不影响其它既定事实的行为），加强了冈部对于命运石之门世界线的印象，让他认识到命运石之门世界线对他而言是独一无二的，从而使得冈部的主观认知偏移回来。&lt;/p>
+&lt;p>之所以红莉栖选择回到 2005 年 6 月 30 日，是由于当时正处于真由理因外婆去世而感到厌世、冈部不知如何慰藉真由理而感到迷茫和无助的时刻，冈部对此印象非常深刻。因此红莉栖在此时夺取冈部的初吻，会对冈部施加最牢固的印象，帮助冈部认知命运石之门世界线是独一无二的。&lt;/p>
+&lt;p>以下摘自&lt;strong>剧场版动画台词&lt;/strong>：&lt;/p>
+&lt;blockquote>
+&lt;p>“未来的你说过，是可以的。确实如果改变了过去的话，世界线就会发生变动，所以要完全保留已发生的事实，仅仅改变冈部伦太郎的记忆。”&lt;/p>
+&lt;p>“改变记忆……”&lt;/p>
+&lt;p>“冈部伦太郎本人始终无法建立起命运石之门世界线就是现实的认知。我们只需要让他认识到，这条世界线和其它的记忆有着明显的不同。”&lt;/p>
+&lt;p>“为此就需要改变冈部的记忆。”&lt;/p>
+&lt;p>“没错。&lt;strong>做出一个在别的世界线都没有的、强烈而鲜明的记忆，这样一来，这条世界线就会显示出和其它世界线的显著差异，作为一个结果被输入冈部伦太郎的大脑，将他从【Reading·Steiner】带来的过度负荷中解放。&lt;/strong>”&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="17冈部伦太郎在-r-世界线收到的手机视频是什么">
+&lt;a href="#17%e5%86%88%e9%83%a8%e4%bc%a6%e5%a4%aa%e9%83%8e%e5%9c%a8-r-%e4%b8%96%e7%95%8c%e7%ba%bf%e6%94%b6%e5%88%b0%e7%9a%84%e6%89%8b%e6%9c%ba%e8%a7%86%e9%a2%91%e6%98%af%e4%bb%80%e4%b9%88">#&lt;/a>
+17.&lt;strong>冈部伦太郎在 R 世界线收到的“手机视频”是什么？&lt;/strong>
+&lt;/h3>&lt;p>根据剧场版小说原文，这里是红莉栖拨打的视频通话，&lt;strong>并非&lt;/strong>发送了类似 D-movie 一般的信息。&lt;/p>
+&lt;p>以下摘自&lt;strong>剧场版小说原文&lt;/strong>（与动画剧情略有差别）：&lt;/p>
+&lt;blockquote>
+&lt;p>TRRRRRR…………&lt;/p>
+&lt;p>来电铃声响起。&lt;/p>
+&lt;p>翻了翻白衣的口袋，手上拿着深红色的直板手机。&lt;/p>
+&lt;p>于是──醒悟过来了。&lt;/p>
+&lt;p>为什么手机会响？&lt;/p>
+&lt;p>为什么会，在这里？白衣青年一边摇晃着手机，一边看了看画面。&lt;/p>
+&lt;p>视频通话。画面开始紊乱，噪音流入大脑。&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="18为什么牧濑红莉栖会和冈部伦太郎同时出现在-r-世界线">
+&lt;a href="#18%e4%b8%ba%e4%bb%80%e4%b9%88%e7%89%a7%e6%bf%91%e7%ba%a2%e8%8e%89%e6%a0%96%e4%bc%9a%e5%92%8c%e5%86%88%e9%83%a8%e4%bc%a6%e5%a4%aa%e9%83%8e%e5%90%8c%e6%97%b6%e5%87%ba%e7%8e%b0%e5%9c%a8-r-%e4%b8%96%e7%95%8c%e7%ba%bf">#&lt;/a>
+18.&lt;strong>为什么牧濑红莉栖会和冈部伦太郎同时出现在 R 世界线？&lt;/strong>
+&lt;/h3>&lt;p>&lt;strong>红莉栖并未经历过世界线变动，没有冈部那样的主观认知问题，所以她不可能出现在 R 世界线。&lt;/strong>&lt;/p>
+&lt;p>片尾这一段剧情其实是命运石之门世界线上的红莉栖乘坐时间机器回到 2011 年之后发生的，只不过一开始冈部的认知中只有红莉栖的存在。&lt;/p>
+&lt;p>&lt;strong>因为冈部的主观认知逐渐向命运石之门世界线偏移的原因是红莉栖给予的独特的强烈印象（即初吻），所以冈部起初只能感受到红莉栖的存在，之后在红莉栖的“提示”下，他才完全回归了命运石之门世界线。&lt;/strong>&lt;/p>
+&lt;p>以下摘自&lt;strong>剧场版小说原文&lt;/strong>：&lt;/p>
+&lt;blockquote>
+&lt;p>“你在发什么呆，变态！”&lt;/p>
+&lt;p>&lt;strong>红莉栖终于观测到了 R 世界线上消失的他。&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>不，让他被观测到了。只有冈部，和自己——命运石之门世界线的牧濑红莉栖，没有其他人。&lt;/strong>&lt;/p>
+&lt;p>“你……为什么……在这里？”&lt;/p>
+&lt;p>&lt;strong>“不是我来了，而是你正要回去。”&lt;/strong>&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="19为什么给予命运石之门世界线少年时期的冈部伦太郎初吻的印象最初来自β世界线的成年冈部伦太郎会记得这件事情">
+&lt;a href="#19%e4%b8%ba%e4%bb%80%e4%b9%88%e7%bb%99%e4%ba%88%e5%91%bd%e8%bf%90%e7%9f%b3%e4%b9%8b%e9%97%a8%e4%b8%96%e7%95%8c%e7%ba%bf%e5%b0%91%e5%b9%b4%e6%97%b6%e6%9c%9f%e7%9a%84%e5%86%88%e9%83%a8%e4%bc%a6%e5%a4%aa%e9%83%8e%e5%88%9d%e5%90%bb%e7%9a%84%e5%8d%b0%e8%b1%a1%e6%9c%80%e5%88%9d%e6%9d%a5%e8%87%aa%ce%b2%e4%b8%96%e7%95%8c%e7%ba%bf%e7%9a%84%e6%88%90%e5%b9%b4%e5%86%88%e9%83%a8%e4%bc%a6%e5%a4%aa%e9%83%8e%e4%bc%9a%e8%ae%b0%e5%be%97%e8%bf%99%e4%bb%b6%e4%ba%8b%e6%83%85">#&lt;/a>
+19.&lt;strong>为什么给予命运石之门世界线少年时期的冈部伦太郎初吻的印象，最初来自β世界线的成年冈部伦太郎会记得这件事情？&lt;/strong>
+&lt;/h3>&lt;p>因为 R 世界线中同样包含了命运石之门世界线过去的历史，当“红莉栖夺走了冈部的初吻”这件事发生之后，就会“同步更新”在 R 世界线的记录中，曾位于 R 世界线的冈部回到命运石之门世界线后自然便记得这件事。&lt;/p>
+&lt;h3 id="20冈部伦太郎所说的能还给我吗我的初吻与本篇-ep22-中他所说的真可惜啊这并不是我的初吻有关联吗">
+&lt;a href="#20%e5%86%88%e9%83%a8%e4%bc%a6%e5%a4%aa%e9%83%8e%e6%89%80%e8%af%b4%e7%9a%84%e8%83%bd%e8%bf%98%e7%bb%99%e6%88%91%e5%90%97%e6%88%91%e7%9a%84%e5%88%9d%e5%90%bb%e4%b8%8e%e6%9c%ac%e7%af%87-ep22-%e4%b8%ad%e4%bb%96%e6%89%80%e8%af%b4%e7%9a%84%e7%9c%9f%e5%8f%af%e6%83%9c%e5%95%8a%e8%bf%99%e5%b9%b6%e4%b8%8d%e6%98%af%e6%88%91%e7%9a%84%e5%88%9d%e5%90%bb%e6%9c%89%e5%85%b3%e8%81%94%e5%90%97">#&lt;/a>
+20.&lt;strong>冈部伦太郎所说的“能还给我吗？我的初吻”与本篇 EP22 中他所说的“真可惜啊，这并不是我的初吻”有关联吗？&lt;/strong>
+&lt;/h3>&lt;p>&lt;strong>没有关联&lt;/strong>。&lt;/p>
+&lt;p>“红莉栖夺走了冈部的初吻”这件事发生在命运石之门世界线上，并且发生在冈部消失之后。&lt;/p>
+&lt;p>而本篇 EP22 的剧情发生在α世界线，冈部消失这件事也并未发生过。&lt;/p>
+&lt;p>因此当时冈部所说的自己的初吻，可能指的是本篇 EP20 中强吻了萌郁，也有可能是小时候他和真由理曾经撞在一起无意中接了吻（本篇游戏、树状图真由理线、剧场版小说中都曾提到过）。&lt;/p>
+&lt;h2 id="part--剧场版剧情梳理">
+&lt;a href="#part--%e5%89%a7%e5%9c%ba%e7%89%88%e5%89%a7%e6%83%85%e6%a2%b3%e7%90%86">#&lt;/a>
+Part Ⅲ &lt;strong>剧场版剧情梳理&lt;/strong>
+&lt;/h2>&lt;h4 id="一周目">
+&lt;a href="#%e4%b8%80%e5%91%a8%e7%9b%ae">#&lt;/a>
+&lt;strong>一周目&lt;/strong>
+&lt;/h4>&lt;div class="timeline">&lt;div class="timenode">&lt;div class="meta">&lt;p>&lt;/p>&lt;p>2011年8月3日&lt;/p>&lt;p>&lt;/p>&lt;/div>&lt;div class="body">&lt;p>2011年8月3日，牧濑红莉栖从美国回到日本，与Labmem们聚会。&lt;/p>&lt;/div>&lt;/div>&lt;div class="timenode">&lt;div class="meta">&lt;p>&lt;/p>&lt;p>2011年8月4日&lt;/p>&lt;p>&lt;/p>&lt;/div>&lt;div class="body">&lt;p>红莉栖在洗衣房前与冈部伦太郎擦肩而过，没能送出自己提前准备的礼物——白大褂。不久之后冈部消失。&lt;/p>&lt;/div>&lt;/div>&lt;div class="timenode">&lt;div class="meta">&lt;p>&lt;/p>&lt;p>2017年&lt;/p>&lt;p>&lt;/p>&lt;/div>&lt;div class="body">&lt;p>阿万音铃羽出生。&lt;/p>&lt;/div>&lt;/div>&lt;div class="timenode">&lt;div class="meta">&lt;p>&lt;/p>&lt;p>2036年&lt;/p>&lt;p>&lt;/p>&lt;/div>&lt;div class="body">&lt;p>红莉栖成功造出了时间机器，铃羽不顾红莉栖的阻止启动时间机器回到了2011年（广播剧《现存在的后验》剧情）。&lt;/p>&lt;/div>&lt;/div>&lt;/div>
+&lt;h4 id="二周目sub剧场版动画的最初时间sub">
+&lt;a href="#%e4%ba%8c%e5%91%a8%e7%9b%aesub%e5%89%a7%e5%9c%ba%e7%89%88%e5%8a%a8%e7%94%bb%e7%9a%84%e6%9c%80%e5%88%9d%e6%97%b6%e9%97%b4sub">#&lt;/a>
+&lt;strong>二周目|&lt;sub>剧场版动画的最初时间&lt;/sub>&lt;/strong>
+&lt;/h4>&lt;div class="timeline">&lt;div class="timenode">&lt;div class="meta">&lt;p>&lt;/p>&lt;p>2011年8月3日&lt;/p>&lt;p>&lt;/p>&lt;/div>&lt;div class="body">&lt;p>牧濑红莉栖从美国回到日本，阿万音铃羽出现在机场。晚上，&lt;strong>Labmem&lt;/strong>们进行了聚会。&lt;/p>&lt;/div>&lt;/div>&lt;div class="timenode">&lt;div class="meta">&lt;p>&lt;/p>&lt;p>2011年8月4日&lt;/p>&lt;p>&lt;/p>&lt;/div>&lt;div class="body">&lt;p>红莉栖在酒店洗澡时，铃羽潜入房间给红莉栖留下了提示“手机、微波炉、SERN”。红莉栖察觉到异常后，没有向浴缸里注水慢悠悠地洗澡，因此提前赶到了洗衣房，遇见冈部并送出了白大褂。在聊天过程中冈部消失。&lt;/p>&lt;/div>&lt;/div>&lt;div class="timenode">&lt;div class="meta">&lt;p>&lt;/p>&lt;p>2011年8月13日&lt;/p>&lt;p>&lt;/p>&lt;/div>&lt;div class="body">&lt;p>红莉栖研制出了时间跳跃机器（该时间跳跃机器并没有本篇中48小时的可回溯时间上限），并使用它回到了10天前。&lt;/p>&lt;/div>&lt;/div>&lt;/div>
+&lt;h4 id="三周目sub牧濑红莉栖时间跳跃之后sub">
+&lt;a href="#%e4%b8%89%e5%91%a8%e7%9b%aesub%e7%89%a7%e6%bf%91%e7%ba%a2%e8%8e%89%e6%a0%96%e6%97%b6%e9%97%b4%e8%b7%b3%e8%b7%83%e4%b9%8b%e5%90%8esub">#&lt;/a>
+&lt;strong>三周目|&lt;sub>牧濑红莉栖时间跳跃之后&lt;/sub>&lt;/strong>
+&lt;/h4>&lt;div class="timeline">&lt;div class="timenode">&lt;div class="meta">&lt;p>&lt;/p>&lt;p>2011年8月3日晚-8月4日凌晨&lt;/p>&lt;p>&lt;/p>&lt;/div>&lt;div class="body">&lt;p>牧濑红莉栖两次观测到冈部伦太郎的消失，并与冈部、铃羽讨论了他即将消失的现象。&lt;/p>&lt;/div>&lt;/div>&lt;div class="timenode">&lt;div class="meta">&lt;p>&lt;/p>&lt;p>2011年8月4日&lt;/p>&lt;p>&lt;/p>&lt;/div>&lt;div class="body">&lt;p>红莉栖赶到Lab的时候冈部恰好消失，她决定听从冈部的警告，放弃使用时间跳跃机器。&lt;/p>&lt;/div>&lt;/div>&lt;div class="timenode">&lt;div class="meta">&lt;p>&lt;/p>&lt;p>2011年8月13日晚-8月14日凌晨&lt;/p>&lt;p>&lt;/p>&lt;/div>&lt;div class="body">&lt;p>铃羽质问红莉栖真正的心愿，并带她登上时间机器。两人一同回到了2005年6月30日。&lt;/p>&lt;/div>&lt;/div>&lt;/div>
+&lt;h4 id="四周目sub牧濑红莉栖第一次使用时间机器sub">
+&lt;a href="#%e5%9b%9b%e5%91%a8%e7%9b%aesub%e7%89%a7%e6%bf%91%e7%ba%a2%e8%8e%89%e6%a0%96%e7%ac%ac%e4%b8%80%e6%ac%a1%e4%bd%bf%e7%94%a8%e6%97%b6%e9%97%b4%e6%9c%ba%e5%99%a8sub">#&lt;/a>
+&lt;strong>四周目|&lt;sub>牧濑红莉栖第一次使用时间机器&lt;/sub>&lt;/strong>
+&lt;/h4>&lt;div class="timeline">&lt;div class="timenode">&lt;div class="meta">&lt;p>&lt;/p>&lt;p>2005年6月30日&lt;/p>&lt;p>&lt;/p>&lt;/div>&lt;div class="body">&lt;p>牧濑红莉栖第一次拯救冈部伦太郎失败。&lt;/p>&lt;/div>&lt;/div>&lt;div class="timenode">&lt;div class="meta">&lt;p>&lt;/p>&lt;p>2011年8月14日&lt;/p>&lt;p>&lt;/p>&lt;/div>&lt;div class="body">&lt;p>回到现在的红莉栖感到心灰意冷，本打算再次放弃拯救冈部，但其它Labmem们全部渐渐回想起了冈部的存在，点燃了红莉栖的斗志。&lt;/p>&lt;/div>&lt;/div>&lt;div class="timenode">&lt;div class="meta">&lt;p>&lt;/p>&lt;p>2011年8月15日&lt;/p>&lt;p>&lt;/p>&lt;/div>&lt;div class="body">&lt;p>红莉栖与铃羽再次乘上时间机器。&lt;/p>&lt;/div>&lt;/div>&lt;/div>
+&lt;h4 id="五周目sub牧濑红莉栖第二次使用时间机器sub">
+&lt;a href="#%e4%ba%94%e5%91%a8%e7%9b%aesub%e7%89%a7%e6%bf%91%e7%ba%a2%e8%8e%89%e6%a0%96%e7%ac%ac%e4%ba%8c%e6%ac%a1%e4%bd%bf%e7%94%a8%e6%97%b6%e9%97%b4%e6%9c%ba%e5%99%a8sub">#&lt;/a>
+&lt;strong>五周目|&lt;sub>牧濑红莉栖第二次使用时间机器&lt;/sub>&lt;/strong>
+&lt;/h4>&lt;div class="timeline">&lt;div class="timenode">&lt;div class="meta">&lt;p>&lt;/p>&lt;p>2005年6月30日&lt;/p>&lt;p>&lt;/p>&lt;/div>&lt;div class="body">&lt;p>牧濑红莉栖夺走了冈部伦太郎的初吻。&lt;/p>&lt;/div>&lt;/div>&lt;div class="timenode">&lt;div class="meta">&lt;p>&lt;/p>&lt;p>2011年x月x日&lt;/p>&lt;p>&lt;/p>&lt;/div>&lt;div class="body">&lt;p>红莉栖乘坐时间机器回到现在，铃羽和时间机器消失，冈部回归命运石之门世界线。&lt;/p>&lt;/div>&lt;/div>&lt;/div>
+&lt;hr>
+&lt;div class="note tip">&lt;/p>&lt;p>注意，此处的所谓一周目只是为了方便才这么称呼，可以清晰地显示客观时间序列上的逻辑顺序，实际并不代表它就是&lt;strong>最初的&lt;/strong>。&lt;/p>&lt;/div>
+&lt;h2 id="part--剧场版相关作品整理">
+&lt;a href="#part--%e5%89%a7%e5%9c%ba%e7%89%88%e7%9b%b8%e5%85%b3%e4%bd%9c%e5%93%81%e6%95%b4%e7%90%86">#&lt;/a>
+Part Ⅳ &lt;strong>剧场版相关作品整理&lt;/strong>
+&lt;/h2>&lt;h3 id="动画">
+&lt;a href="#%e5%8a%a8%e7%94%bb">#&lt;/a>
+动画
+&lt;/h3>&lt;ul>
+&lt;li>
+&lt;p>《命运石之门：负荷领域的既视感》是由 WHITE FOX 制作的动画电影。&lt;/p>
+&lt;p>电影作为《命运石之门》系列的第一部剧场版动画，讲述的是发生在电视本篇真结局及第 25 话 OVA 之后的全新故事。情节起始于 2011 年 8 月，以红莉栖视角为主，讲述了牧濑红莉栖和冈部伦太郎两人跨越世界线的情感故事。电影于 2013 年 4 月 20 日在日本上映。&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="小说">
+&lt;a href="#%e5%b0%8f%e8%af%b4">#&lt;/a>
+小说
+&lt;/h3>&lt;ul>
+&lt;li>
+&lt;p>《剧场版 命运石之门：负荷领域的既视感 上/下》是由动画原案改编的两卷小说（已完结），小说作者滨崎达也，两卷分别于2013年5月1日和2013年6月1日发售。&lt;/p>
+&lt;p>该小说是把命运石之门本篇的 OVA 和剧场版动画结合在一起，完整且更详细地讲述了冈部伦太郎到达命运石之门世界线之后一年内的故事。&lt;/p>
+&lt;p>其中对 R 世界线等设定的补充比起动画中的描述更加详细也更为准确，是命运石之门衍生作品中必读的一部。&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="漫画">
+&lt;a href="#%e6%bc%ab%e7%94%bb">#&lt;/a>
+漫画
+&lt;/h3>&lt;ul>
+&lt;li>
+&lt;p>《剧场版 命运石之门：负荷领域的既视感 (1)/(2)》是由动画原案改编的两卷单行本漫画（已完结），漫画作者九我山レキ。&lt;/p>
+&lt;p>该漫画曾在杂志《月刊少年 ACE》（毎月 26 日发售）上连载&lt;/p>
+&lt;p>两卷单行本则分别于 2013 年 4 月 24 日和 2013 年 12 月 26 日发售。&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="广播剧">
+&lt;a href="#%e5%b9%bf%e6%92%ad%e5%89%a7">#&lt;/a>
+广播剧
+&lt;/h3>&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>命运石之门&lt;/strong> &lt;strong>赤面必至的流言&lt;/strong>&lt;/p>
+&lt;p>Comptiq 2013 年 5 月号附录原创 Drama CD，讲述牧濑红莉栖和菲莉丝对桥田至和阿万音由季的交往经过感到好奇，从而展开调查的故事，世界线同动画剧场版。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>命运石之门&lt;/strong> &lt;strong>现存在的后验&lt;/strong>（又译：此在的因果论）&lt;/p>
+&lt;p>动画剧场版 BD 限定版特典，阿万音铃羽视角，剧场版的冈部伦太郎消失后 20 年间，牧濑红莉栖发明时间机器的故事，世界线同动画剧场版。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>命运石之门&lt;/strong> &lt;strong>隐晦曲折的交响曲&lt;/strong>&lt;/p>
+&lt;p>动画剧场版 BD 限定版 Amazon.co.jp 预约特典，剧场版剧情的补完，时间发生在剧场版的前一周，世界线同动画剧场版。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>命运石之门&lt;/strong> &lt;strong>意材言外的分形&lt;/strong>&lt;/p>
+&lt;p>动画剧场版 BD 限定版先行店铺预约特典，世界线同动画剧场版。&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>命运石之门&lt;/strong> &lt;strong>混沌的必然演示&lt;/strong>&lt;/p>
+&lt;p>Softmap DVD/BD全卷购入特典，原创广播剧，大意为剧场版确定。&lt;/p>
+&lt;p>冈部伦太郎把所有人的想法集合在一起，弄出一个超级无厘头的剧场版。然后大家都无语并抛弃他了。世界线同动画剧场版。&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="part--其他说明">
+&lt;a href="#part--%e5%85%b6%e4%bb%96%e8%af%b4%e6%98%8e">#&lt;/a>
+Part Ⅴ &lt;strong>其他说明&lt;/strong>
+&lt;/h2>&lt;h3 id="科学-adv-系列相关中文资料网站sub建设中sub">
+&lt;a href="#%e7%a7%91%e5%ad%a6-adv-%e7%b3%bb%e5%88%97%e7%9b%b8%e5%85%b3%e4%b8%ad%e6%96%87%e8%b5%84%e6%96%99%e7%bd%91%e7%ab%99sub%e5%bb%ba%e8%ae%be%e4%b8%adsub">#&lt;/a>
+&lt;strong>科学 ADV 系列相关中文资料网站&lt;/strong>|&lt;sub>建设中&lt;/sub>
+&lt;/h3>&lt;ol>
+&lt;li>&lt;a class="link" href="https://sci-adv.cc/wiki/%e9%a6%96%e9%a1%b5" target="_blank" rel="noopener"
+>科学 ADV 中文 wiki &lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://lib.sci-adv.cc" target="_blank" rel="noopener"
+>科学 ADV 图书馆&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h3 id="科学-adv-交流频道">
+&lt;a href="#%e7%a7%91%e5%ad%a6-adv-%e4%ba%a4%e6%b5%81%e9%a2%91%e9%81%93">#&lt;/a>
+&lt;strong>科学 ADV 交流频道&lt;/strong>
+&lt;/h3>&lt;blockquote>
+&lt;p>&lt;strong>QQ 新增功能&lt;/strong>：&lt;strong>频道&lt;/strong>，点击链接可直接加入：&lt;a class="link" href="https://qun.qq.com/qqweb/qunpro/share?_wv=3&amp;amp;_wwv=128&amp;amp;inviteCode=1HSlkl&amp;amp;from=246610&amp;amp;biz=ka" target="_blank" rel="noopener"
+>科学 ADV 频道&lt;/a>、&lt;a class="link" href="https://qun.qq.com/qqweb/qunpro/share?_wv=3&amp;amp;_wwv=128&amp;amp;inviteCode=BS7Tt&amp;amp;from=246610&amp;amp;biz=ka" target="_blank" rel="noopener"
+>命运石之门频道&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;div align="center">
+&lt;img src="https://cdn.jsdelivr.net/gh/SlieFamily/TempImages@1.0.1/QQGuild/SteinsGate.jpg" width="200">
+&lt;img src="https://cdn.jsdelivr.net/gh/SlieFamily/TempImages@1.0.1/QQGuild/sciADV.jpg" width="200">
+&lt;/div>
+&lt;div class="note tip">&lt;/p>&lt;p>注：如果您的 QQ 尚未开通频道功能，也可以通过加入下面所列出来的 QQ 群获取&lt;strong>频道通行证&lt;/strong>&lt;/p>&lt;/div>
+&lt;h3 id="科学-adv-粉丝组织">
+&lt;a href="#%e7%a7%91%e5%ad%a6-adv-%e7%b2%89%e4%b8%9d%e7%bb%84%e7%bb%87">#&lt;/a>
+&lt;strong>科学 ADV 粉丝组织&lt;/strong>
+&lt;/h3>&lt;h4 id="反物质委员会">
+&lt;a href="#%e5%8f%8d%e7%89%a9%e8%b4%a8%e5%a7%94%e5%91%98%e4%bc%9a">#&lt;/a>
+&lt;strong>反物质委员会&lt;/strong>
+&lt;/h4>&lt;p>致力于维持并发展科学 ADV 中文圈的国内科学 ADV 系列核心组织欢迎有意愿发电的粉丝查看 UP 主反物质委员会的专栏内的组织架构，选择适合自己的部门&lt;/p>
+&lt;p>&lt;strong>加群请私信 UP 想要担任的职务并展示能够胜任该岗位的凭证&lt;/strong>&lt;/p>
+&lt;p>&lt;a class="link" href="https://www.bilibili.com/read/cv11242272" target="_blank" rel="noopener"
+>反物质委员会|B 站专栏&lt;/a>&lt;img src="https://unpkg.com/mcseekeri@1.2.9/avatar/%e5%8f%8d%e7%89%a9%e8%b4%a8%e5%a7%94%e5%91%98%e4%bc%9a.webp"
+loading="lazy"
+>&lt;/p>
+&lt;h4 id="未来同人研究所">
+&lt;a href="#%e6%9c%aa%e6%9d%a5%e5%90%8c%e4%ba%ba%e7%a0%94%e7%a9%b6%e6%89%80">#&lt;/a>
+&lt;strong>未来同人研究所&lt;/strong>
+&lt;/h4>&lt;p>致力于创作《命运石之门》及科学 ADV 系列相关同人作品的同人社团&lt;/p>
+&lt;p>欢迎有创作意愿的写手/画手或是其它任何作品形式的爱好者加入我们！&lt;/p>
+&lt;p>&lt;strong>群号：681427075&lt;/strong>&lt;/p>
+&lt;h4 id="科学-adv-复兴祭">
+&lt;a href="#%e7%a7%91%e5%ad%a6-adv-%e5%a4%8d%e5%85%b4%e7%a5%ad">#&lt;/a>
+&lt;strong>科学 ADV 复兴祭&lt;/strong>
+&lt;/h4>&lt;p>致力于创作科学 ADV 系列相关同人作品的同人社团&lt;/p>
+&lt;p>欢迎有创作意愿的写手/画手或是其它任何作品形式的爱好者加入我们！&lt;/p>
+&lt;p>&lt;strong>群号：806022928&lt;/strong>&lt;/p>
+&lt;h4 id="sos-团石学圆桌会议">
+&lt;a href="#sos-%e5%9b%a2%e7%9f%b3%e5%ad%a6%e5%9c%86%e6%a1%8c%e4%bc%9a%e8%ae%ae">#&lt;/a>
+&lt;strong>SOS 团;石学圆桌会议&lt;/strong>
+&lt;/h4>&lt;p>致力于讨论动画《命运石之门》和《命运石之门 0》及有关游戏、小说、漫画、广播剧等作品的人物、剧情及设定，为萌新科普、答疑解惑的普通爱好者交流群。&lt;/p>
+&lt;p>&lt;strong>群号：729901771&lt;/strong>&lt;/p>
+&lt;h4 id="科学-adv-总基地">
+&lt;a href="#%e7%a7%91%e5%ad%a6-adv-%e6%80%bb%e5%9f%ba%e5%9c%b0">#&lt;/a>
+&lt;strong>科学 ADV 总基地&lt;/strong>
+&lt;/h4>&lt;p>致力于讨论科学 ADV 系列游戏及相关动画、小说、漫画、广播剧等作品的人物、剧情及设定，为萌新科普、答疑解惑的普通爱好者交流群。&lt;/p>
+&lt;p>&lt;strong>群号：757530435&lt;/strong>&lt;/p>
+&lt;h3 id="制作人员名单">
+&lt;a href="#%e5%88%b6%e4%bd%9c%e4%ba%ba%e5%91%98%e5%90%8d%e5%8d%95">#&lt;/a>
+制作人员名单
+&lt;/h3>&lt;p>在此特别感谢对《命运石之门剧场版 QA 手册》的制作做出主要贡献的成员：&lt;/p>
+&lt;p>&lt;strong>负责讨论、编写、修订&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>@听风落羽|&lt;img src="https://unpkg.com/mcseekeri@1.3.0/avatar/%E5%90%AC%E9%A3%8E%E8%90%BD%E7%BE%BD.webp" alt="听风落羽" width="20">&lt;/p>
+&lt;p>@星影|&lt;img src="https://unpkg.com/mcseekeri@1.3.0/avatar/%E6%98%9F%E5%BD%B1.webp" alt="星影" width="20">&lt;/p>
+&lt;p>@Slie-wdy|&lt;img src="https://unpkg.com/mcseekeri@1.3.0/avatar/Slie.webp" alt="Slie-wdy" width="20">&lt;/p>
+&lt;p>@可爱的 serika|&lt;img src="https://unpkg.com/mcseekeri@1.2.6/avatar/serika.jpg" alt="可爱的 serika" width="20">&lt;/p>
+&lt;p>@Sisyphe_菠萝|&lt;img src="https://unpkg.com/mcseekeri@1.3.0/avatar/Sisyphe.webp" alt="Sisyphe_菠萝" width="20">&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;strong>提供宝贵的建议以及资源&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>@laozei|&lt;img src="https://unpkg.com/mcseekeri@1.3.0/avatar/laozei.webp" alt="laozei" width="20">&lt;/p>
+&lt;p>@天光逸|&lt;img src="https://unpkg.com/mcseekeri@1.2.6/avatar/tgy.jpg" alt="天光逸" width="20">&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;strong>——命运石之门 FAQ 制作组&lt;/strong>&lt;/p>
+&lt;h2 id="结语">
+&lt;a href="#%e7%bb%93%e8%af%ad">#&lt;/a>
+结语
+&lt;/h2>&lt;p>感谢能够看到这里的每一个人！千言万语汇成一句话：&lt;strong>我们不会停滞于此——&lt;/strong>&lt;/p>
+&lt;p>敬请期待本小组后续的【命运石之门本篇 QA 手册 Elite】及【命运石之门 0 动画 QA 手册】！&lt;/p></description></item><item><title>“因果决定收束”究竟为何？——石学官设与民间逻辑的诞生始末</title><link>https://lib.sci-adv.cc/archives/884c29d5/</link><pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate><guid>https://lib.sci-adv.cc/archives/884c29d5/</guid><description>&lt;p>一楼惯例群宣：&lt;br>
+&lt;img src="https://unpkg.com/sciadvfiles@1.1.3/other/SOS.webp"
+loading="lazy"
+>&lt;br>
+SOS 团：石学圆桌会议，致力于 sg 逻辑解读的一个小组。有兴趣的同学欢迎加入。&lt;/p>
+&lt;p>Ps：看标题可别误解，我可不是为了某位“科普”才写的这个帖子，我没那么抖 m。这篇我早就开始写了，群里现在也在解决类似的问题。写的很认真的，全文 10000 字，希望有缘人耐心看完。&lt;/p>
+&lt;h2 id="引子">
+&lt;a href="#%e5%bc%95%e5%ad%90">#&lt;/a>
+引子
+&lt;/h2>&lt;p>为什么要写这个帖子，可以用两句话来概括。&lt;br>
+本篇无论是动画还是游戏，官方 QA 本身有一些问题，但足以用来解释剧情。&lt;br>
+官方 QA 有问题，不代表官方本身不清楚。QA 只是用来解释剧情的，不是用来完善世界观的。&lt;br>
+为什么呢？一个例子就够了。&lt;br>
+官方 QA 第 25 问：为什么删除最初的 dmail 能使α变动到β？问答如下。&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Q25&lt;/em>&lt;br>
+为什么在第 10 章中，能够藉着删除被 Echelon 收集到的寄给桶子的 Dmail 而移动到β世界线呢？在删除之前，Dmail 已经被 SERN 知道了的话，即使删除了不也无法改变命运吗？&lt;br>
+&lt;em>A25&lt;/em>&lt;br>
+透过改变现在，过去也会重新构成。第 2 章里 John Titor 在@channal 上说的话「一旦发生世界线变动率会改变的大事件，过去总是会按照着因果律毫无矛盾地被重新构成」就是这样。藉着删除 7 月 28 日的 Echelon 的邮件数据，7 月 28 日至 8 月 21 日的因果律将会重新构成为“β世界线 1.130205%”。这是建基于「由于 Dmail 本来就是“离开了因果律之环的异端”，当进行寄送或删除等干涉，将会产生无视因果律的大幅度异常改变」这条本作中因果律改变的规则。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+当删除残留于 Echelon 的冈部送出的 Dmail 数据时，世界会产生变化。此行为是受未来的桶子唆使的铃羽，向冈部他们提议的。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>note:为何藉着删除 Echelon 的 Dmail 数据，会让世界线变化？这是玩家特别抱有疑问的要点之一。ReadingSteiner 发动几乎都是用 Dmail 改变了过去时。这成为了“ReadingSteiner 仅因邮件的删除就发动，因此而感到不谐调”的原因。顺带一提想要时间跳跃去进行巨大的过去改变时，大都会因收束而以失败告终。“对于想要删除 Dmail 这个行为，为何阻止这事的收束并没有起作用？”是一个谜。也留下了“即使之后删除邮件，只要之前就被 SERN 盯上了的话，结果不也不会改变吗？”等疑问。开发团体对于这些疑问，回答了「Dmail 本来就是“离开了因果律之环的异端”」，所以当进行干涉将会引起大幅度的改变。即是 Dmail 的特殊性，成为了引起种种世界线变动的原动力。&lt;/p>
+&lt;/blockquote>
+&lt;/blockquote>
+&lt;p>这是“dmail 超因果”的出处。也是“删除 dmail 导致α变β”的官方解释。&lt;br>
+首先一个问题：这一段，符合设定，符合剧情。&lt;br>
+但是符合逻辑么？&lt;br>
+——不符合。&lt;br>
+如果只看这一段解释，那么官方本身就把“dmail”看成了一个法外之物，于是所有对它的干涉都会导致巨大的变化。&lt;/p>
+&lt;p>然而……&lt;/p>
+&lt;p>&lt;strong>这个解释，逻辑有问题。&lt;/strong>&lt;br>
+&lt;strong>这个解释，逻辑有问题。&lt;/strong>&lt;br>
+&lt;strong>这个解释，逻辑有问题。&lt;/strong>&lt;br>
+&lt;strong>这个解释，逻辑有问题。&lt;/strong>&lt;/p>
+&lt;p>为什么有问题？&lt;br>
+——第一封 dmail 相对于其余 dmail 太过于独立，也没有解释第一封 dmail 诞生α的理由。&lt;br>
+为什么第一封 dmail 只要“在现在删除”便可“取消因果”，而其余 dmail 必须要“新发送一封 dmail，在过去让看见 dmail 的人行动回归原来的情况”才行？&lt;br>
+——根本没解释啊！&lt;br>
+但是官方知道么？&lt;br>
+——显然是知道的。因为剧本中的其他 dmail 都是“取消因果”而非“直接删除”。&lt;br>
+既然知道，又没解释清楚，为什么呢？&lt;br>
+——因为这段解释并不是官方的本意。&lt;/p>
+&lt;p>官方的本意是什么？&lt;br>
+——摘录自图片：“删除被梯队系统保留的 dmail 数据满世界线就会变化。这是接受了未来桶子指示的铃羽向冈部他们提出的方案。”&lt;br>
+“未来铃羽的方案”，这就是答案。&lt;br>
+至于具体为何？官方根本不想自己说出来，所以在 QA 的时候随便敷衍了一下，把“dmail”摆到台面上来，利用“dmail”的特殊性去解释。&lt;/p>
+&lt;p>所以，除却官方的内容，为什么会有这么多民间的解释？这些民间解释能被大多数人接受，并不是他们完全依据官方设定，而是因为他们依据逻辑。&lt;/p>
+&lt;p>因为抛开官方设定，不论何种民间的解释，无一不是从“因果”出发进行讨论。而这实际上并没有违背官方的本意，因为官方除了这第一封 dmail 的解释以外，所有解释都是符合因果的。包括“为何 dmail 不能删除而是必须要取消”这种问题。&lt;/p>
+&lt;p>除了这个例子，类似的，“欺骗世界”的“设定”，“观测者”的“设定”，“AF 理论”的“设定”。。。讲真，不说逻辑有问题了，有一些乍看甚至和剧本内容有矛盾，需要深入去理解。类似的例子我能举出好多，不多说了。&lt;br>
+所以：“设定”，只是“设定”而已，“QA”的目的是梳理剧情疑问，不是弄清逻辑。&lt;br>
+弄清逻辑，还是要从剧本内容本身出发。&lt;/p>
+&lt;p>&lt;font color="red">Ps：吧里那位“科普”的，美其名曰科普按照设定来，却连设定有什么问题都不清楚。这属于偏信到极致，也不去思考。没有系统就科普，属于有普没科。又没人看，就属于既没普又没科了，噫吁嚱。&lt;/font>&lt;/p>
+&lt;p>&lt;font color="red">Pps：另外有很多人，把这些“民间”解释当成“官方”的，这有可能是各种因素所致，甚至是历史发展的必然结果。所以建议，不论看了多少分析贴，参与讨论的基础是先把官方设定单独拎出来看完，然后再去看民间的东西，以免产生误解。 &lt;/font>&lt;/p>
+&lt;p>至于民间那些讨论，导致了民间对于“一种解释的认同”，也就是所谓的“民间解释”。“民间解释”往往更容易被认同，因为它们早就经历了“讨论”的过程了。而这些讨论的“过程”，最终引出了“因果决定收束”的这个结论。这不是看设定能看出来的东西，这东西只依靠逻辑。&lt;/p>
+&lt;p>然而，为什么最终会得出这个结论呢？本质原因是什么？民间为何对于这种解释如此热衷与推崇？这些内容，民间的讨论是无法得知的。而这就需要对设定从头至尾进行理解，并且从志仓的思路本身着手，去思考“世界线变动范围（AF 理论）”的诞生。&lt;/p>
+&lt;p>也就是我帖子以下第二部分的内容。&lt;/p>
+&lt;h2 id="af-理论的建立官设的诞生始末">
+&lt;a href="#af-%e7%90%86%e8%ae%ba%e7%9a%84%e5%bb%ba%e7%ab%8b%e5%ae%98%e8%ae%be%e7%9a%84%e8%af%9e%e7%94%9f%e5%a7%8b%e6%9c%ab">#&lt;/a>
+AF 理论的建立——官设的诞生始末
+&lt;/h2>&lt;p>第一部分的结论是：官方 QA 有问题，但是 QA 不是官方的本意。&lt;br>
+QA 是面向“看过剧情”的观众及读者的，目的是“解释剧情”，这并不是“官方的思考过程”以及“设定诞生的过程”。&lt;br>
+这一部分，讲的就是“官方的思考过程”，也就是设定者志仓的思考过程。并且，这也能揭露“民间解释最终得出这个结论”的深层次原因。&lt;/p>
+&lt;p>先从 sg 的起源说起。&lt;br>
+从访谈中，我们知道，在 5pb 完成 CH 之后，志仓找到林直孝，脑门一拍：“我们来写个时间穿越的故事吧”。&lt;br>
+当初被所有人反对，最后志仓通过厚厚的一本设定和脑洞征服了脚本家们。&lt;br>
+于是 SG 就诞生了。&lt;br>
+这个过程中，就包含了所谓“志仓的思考过程”。&lt;/p>
+&lt;p>当然这个故事是说着玩儿的也不能全信。但是设定是志仓弄的，脚本是脚本家们写的，两者分工明确。所以，需要知道的是，设定并不是成品。当初思考设定的过程和写剧本的过程，本质上是分开来了。因此，在弄设定的时候，志仓是没有剧本的。所以志仓要思考的问题是，如何架构出一个世界观，既有能让故事写的出色的潜力，又能够让逻辑通顺。&lt;br>
+理解了之后我们继续。&lt;/p>
+&lt;p>科学 ADV 系列的理论基石是“脑科学”而并非因果律。SG 是科学 ADV 系列第 2 部。&lt;br>
+志仓想要写个有关于“时间穿越”的故事，于是他对于设定的思考是从“时间机器”出发的。&lt;br>
+所以，AF 理论的出发点，简单来讲就是“时间机器”。&lt;br>
+从时间机器出发去思考，重点来了，怎么解释时间机器所产生的悖论呢？&lt;br>
+&lt;strong>这是志仓遇到的第一个难题，也是现实世界中物理学对于“能否时间穿越”这一问题的深层次探讨，直到现在都没有答案。并且，时间穿越这一题材吸引人很大程度也是因为这个问题的神秘性。。所以 SG 想要成功，这个问题的答案一定要设定好。&lt;/strong>&lt;/p>
+&lt;p>于是为了解释悖论，志仓需要干什么呢？&lt;br>
+——最基本的，了解因果律。对于这个问题，物理学上有过各种诠释，所有的诠释是朝着能够解释“时间穿越导致的因果律崩坏”而做出的。于是在 SG 的设定里，不解释这个就相当于没有任何解释。&lt;/p>
+&lt;p>所有人的思考与脑洞都是有迹可循的，志仓思考 AF 理论是的思路是可以猜测的。所有理论结果都不是睡一觉就出现的，也不是“一拍脑门”就能解决的事情。如同“AF 理论”这么复杂的设定，显然是需要一个开端，然后一点点开始构建，最终形成一个具有逻辑的系统。&lt;/p>
+&lt;p>Ps：游戏中的所谓“M 理论，量子力学，相对论”，忽悠观众就够了。就算有参考，也没有谁相信志仓的脑洞能大到把三个物理基石搞透并综合运用起来。&lt;/p>
+&lt;p>知道这一点，就可以去想了：&lt;/p>
+&lt;p>时间机器不存在的世界，世间的一切由因果串联，因在前，果在后。&lt;br>
+而时间机器一旦存在，就会导致本该处于未来的结果回到了过去的原因之前，于是产生了结果导致原因改变，原因改变导致本该发生的结果未发生。这就是祖父悖论。&lt;br>
+在现实世界里，祖父悖论的解决方式是“平行世界”（多世界诠释）或是“坍缩”（哥本哈根诠释）。&lt;br>
+平行世界否定一切可能产生的悖论，而坍缩拒绝观测我们世界本身之外的其他世界。&lt;br>
+这两种现行理论，从不同的角度完善了现实世界中的“因果律”。&lt;br>
+那么做个类比的话，世界线收束范围（attrat field，简称 AF）则是石头门世界观中的“被完善”的因果律。这两个理论也是志仓发展 AF 理论的核心。&lt;/p>
+&lt;p>（PS：从这一段就能看出来，AF 理论的根基就是因果律。如果没有因果律，AF 理论诞生都不会诞生。所以实际上，“收束取决于因果”这个结论是必然的。）&lt;/p>
+&lt;p>也因此 AF 理论有几个特质：&lt;br>
+A 结合了以上两种现实理论，&lt;br>
+B 外加上有关决定论的脑洞，&lt;br>
+C 部分从因果律出发的&lt;strong>想当然&lt;/strong>，&lt;br>
+D 承认了时间机器的存在基础之上，构成了一套需要世界本身进行计算的、符合因果律的运作体系。&lt;/p>
+&lt;p>下面一个个讲。&lt;/p>
+&lt;p>A、结合现实理论的部分，包括：&lt;br>
+1、世界在每个时间点上产生的无数分歧，构成无数的世界线（平行世界中的概念）&lt;br>
+2、同时只有一条世界线被点亮，就是现在所处的世界（可以理解为波函数的坍缩导致其他可能性都消失了，哥本哈根诠释中的概念）&lt;br>
+这一部分中的概念来自现实，属于 AF 理论中最靠谱的内容。所以 AF 理论实际上是“已有理论的改写”，而非“重新构建一个理论”。志仓没有能力也没有兴趣“重新构建一个理论”。&lt;/p>
+&lt;p>B、有关决定论的脑洞，包括：&lt;br>
+1、世界线形状为线束，微观上分为一条条互不干涉的线，宏观上组成粗线绳，通往同一个未来。&lt;br>
+2、未来会被收束，既定的事实会被收束，过程可以改变，结果却不能改变。&lt;/p>
+&lt;p>“决定论”在哲学中是有标准的逻辑的，并不是脑洞：&lt;br>
+“人的一切活动，都是先前某种原因和几种原因导致的结果，人的行为是可以根据先前的条件、经历来预测的。反过来，如果发生了某个事件，可以认为它是不可避免的”。&lt;/p>
+&lt;p>由此看来，在 A 部分的第二个概念（A2）的特点是，结合了平行世界的概念以及“单一世界”的事实。这是为了 B 中的“决定论”脑洞做铺垫。因为有多个世界同时存在相互不影响的话，“决定论”也根本就无需存在了。只有“单一世界”才有可能“存在收束”，而现实世界中能够将世界解释成“单一世界”并且对时间机器有包容性的诠释，就只剩下哥本哈根诠释中对于“坍缩”的解读了。&lt;/p>
+&lt;p>然而，AF 理论中的“决定论”不止于此。因为它加上了“时间机器”的概念。所以才有了“收束”、“线绳”等等概念。而这些都属于脑洞的范畴。&lt;/p>
+&lt;p>这一部分的理论架构纯属脑洞，属于 AF 理论中加强剧本娱乐性和戏剧性的内容。毕竟石头门是一个文学作品，而不是科普读物。因此是要给个好评的。&lt;/p>
+&lt;p>综合 AB 来看，这些概念都是为了配合“时间机器”而出现的。如果没有“时间机器”，世界要么本就是无数分歧的合集，但是无法观测到其他世界，这是通过哥本哈根或者多世界诠释来解释；要么早就被决定了，既不会有分歧，也不会有收束，这是通过决定论来解释。然而不论哪一种解释，剧本发挥空间变得非常狭窄，于是志仓选择了将“分歧”保留下来，并且添加上了“决定论”的相关概念，构成了一个全新的 AF 理论。&lt;br>
+——但是这个时候，AF 理论会存在大量的矛盾。因为“决定论”和“平行世界”本来就有很多地方存在矛盾。有个哥本哈根的坍缩的解释并不能够中和所有问题。于是就有了下面的 C 和 D。&lt;/p>
+&lt;p>C、从因果律出发&lt;strong>想当然&lt;/strong>的内容，包括：&lt;br>
+1、想要改变收束只能越过分歧点。&lt;br>
+2、存在巨大事件所导致的巨大的分歧点，（1991 海湾战争，2000 千年虫，2010 时间机器）。&lt;/p>
+&lt;p>说这两点&lt;strong>想当然&lt;/strong>，是因为收束的内容乍看起来无法确定。于是在看完石头门之后，观众对于收束会有各种不同理解，争论在所难免。实际上官方对此有定义，但也喜欢借助一些“科学”的词汇来误导观众，比如“观测到的东西就被收束了不可更改”之类的，偏偏大部分观众会信。而让部分观众确信的源头，显然就是&lt;strong>想当然&lt;/strong>。“这么说起来好高大上啊！这么说起来很定很帅很受欢迎！”之类的心理想法，现在也能猜个七七八八。&lt;/p>
+&lt;p>但，由于此种&lt;strong>想当然&lt;/strong>是从因果律出发的，所以并非真正的&lt;strong>想当然&lt;/strong>，而是具有逻辑可循。&lt;br>
+什么逻辑呢？分歧与收束的对应性。&lt;/p>
+&lt;p>C1：“想要改变收束只能越过分歧点”是将 AB 两点逻辑串联起来的一句话。A 所带来的是分歧，B 所带来的是收束。将“分歧”与“收束”所结合，带来的就是 AB 在逻辑上的统一。&lt;/p>
+&lt;p>由于 AF 理论是石头门世界观里的因果律。世界在每个时间点上会产生无数的分歧，这些分歧导致不同世界线。所以实际上，不同的因果会导致分歧，即分歧=不同世界线。&lt;br>
+那么“想要改变收束，只能越过分歧点”，这个说法，翻译一下就是“世界线有收束，改变世界线就能改变收束”。这实际上是把“收束”直接与“分歧”绑定。“收束被分歧改变”。&lt;/p>
+&lt;p>在此基础之上，“因果导致分歧”等价于“因果决定分歧”；“收束被分歧改变”等价于“分歧决定收束”。&lt;br>
+所以：“因果决定分歧决定收束”&lt;br>
+所以：“因果决定收束”。&lt;/p>
+&lt;p>&lt;font color="red">收束取决于因果就是这么来的。&lt;/font>&lt;/p>
+&lt;p>具体说，在本世界线上，某些事件被收束。但是如果因果变了，分歧导向变了，世界线变了，事件也就不被收束了。&lt;br>
+这就是铃羽所说，打破“收束”必须要到“分歧点”之前的原因。&lt;/p>
+&lt;p>&lt;font color="red">重要的是：本质上 AF 理论是收束范围，也就是不论哪一条“世界线”，虽然称之为单一的“线”，但是在更微观的量级上它依然是由更细的世界线所组成的“线绳”。这就是为什么收束会有“范围”，因此，收束所对应的分歧也具有范围。于是推导出了上面的第二点：“存在巨大事件所导致的巨大分歧”。 &lt;/font>&lt;/p>
+&lt;p>——AF 理论中，看似&lt;strong>想当然&lt;/strong>的特质 C，本质上中和了特质 B 过大的脑洞带来的与特质 A 的矛盾以及逻辑漏洞，使得这种脑洞有了一定的逻辑支撑。所以对于这个想法是要吹爆的。&lt;/p>
+&lt;p>D、承认时间机器的因果律以及世界自行计算系统。&lt;br>
+AF 理论通过世界计算系统化解了时间机器的悖论这一点，虽然因为造成一些漏洞并不值得吹爆，但这大概是这个脑洞最为成功的地方，也是欺骗性最强的一点。&lt;br>
+由于这一因果律的前提是存在时间机器，而时间机器会导致因果逻辑产生悖论。因此在 AF 理论里，会出现“世界自行计算并重构，直到找到 bug 消失且符合因果律的世界线从而再一次稳定下来”这一系统的存在，也就是世界发生 bug 并且自我修复的过程。这就是石头门的世界与现实世界最大的不同之处。&lt;br>
+而这个系统，导致了因果存在高低两个视点。低视点是世界线内部的因果，高视点则是与世界重构相关的因果。于是就会导致 AF 理论存在某些神奇的现象，或者说为了圆漏洞而加上的附加条件。&lt;/p>
+&lt;p>1、莫比乌斯环。&lt;br>
+在时间机器以及世界计算系统的作用下，会出现因果环：原因导致结果，结果反过头来导致原因，整个世界线上并不存在这个因果环的起点（本因），因为起点（本因）在变动之前的世界线上。这就是所谓莫比乌斯环。&lt;br>
+莫比乌斯环在现实中从更高视点去看，是存在“究竟如何存在”这一悖论的，但在 AF 理论的框架下可解。从高视点来看，世界重构本身也是有原因的，而重构可以稳定于因果环，因为因果环从低视点来看并不存在悖论。所以，其他世界线上的原因，就是本条世界线上的因果环。&lt;/p>
+&lt;p>2、因果连接点。&lt;br>
+当世界发生 bug 的那一刻，世界自我 debug 的计算发生在一瞬间，世界从旧世界线无时差的移动到新世界线。移动的时间点，就是因果连接点。（当然，“因果连接点”这个词语也是民间的）。&lt;br>
+因此，发送 dmail 的时候（注意并不是接受 dmail 的时候），就是世界发生 bug 的时候，世界在发送 dm 的时候移动到了新世界线上。&lt;br>
+同样，这也是高视点的产物。&lt;/p>
+&lt;p>3、dmail 超因果。&lt;br>
+由于 dmail 导致了世界发生了 bug，世界需要变动，而新世界线的产生来源于这封 dmail。所以很显然，dmail 要在新世界线上存在。但是 dmail 的发信却不会被保留，因为新世界线上并不存在“发信”这一事实。&lt;br>
+这属于为了圆逻辑而加上的设定内容。不过相比设定中大量的逻辑推演所自成体系，区区一个设定内容，后续想怎么圆都是没问题的。&lt;br>
+从逻辑上来看，这就是“变线的原因”必然保留于当前世界线上的基础。也是当世界从β变化到 sg 线的时候，即使铃羽的时间机器没有回到过 7/28，sg 的 7/28 当天依然会莫名奇妙地出现一个冈部伦太郎把牧濑红莉栖给救了，这就是“世界线变动保留本因”。&lt;br>
+当然，本质上也是高视点的产物。&lt;/p>
+&lt;p>以上三点，使得 sg 世界观中因果的层次分明。而“观测者”、“RS”、“新型脑炎”等概念也因为这个“系统”应运而生，进一步丰富了 SG 的世界观。类似的内容在剧场版小说和 SG0 里有大量的涉及。而不论哪种“应运而生”的概念，最终都回归到了剧本上，并且充分地体现了出来。比如主角拥有了“观测者”的能力，原因是他有“RS”；再比如不论是谁都有“既视感”，让主角回归原本世界线成为可能等等。没有 D，就没有这些全新的设定与概念，也就没有石头门丰富多彩的元素混合。&lt;/p>
+&lt;p>如果说 ABC 是世界观设定时候必须去考虑的问题所致，D 则是将这些内容串联在了一起并进行整合，最终使得这一理论的架构能够支撑剧本的诞生。毕竟有很多设定非常丰富的世界观，由于找不到剧本切入点，最终的剧本都非常单一和无聊，完全体现不出来世界观的丰盛。而特质 D 完成了这一过程。甚至，正是由于 D 的欺骗性，成就了石头门在历史上都赫赫有名的伟业。&lt;/p>
+&lt;p>Ps：D 的欺骗性在剧情中的体现：在观众无法彻底理解 AF 理论的情况下，去细想欺骗世界本身是会发现 bug 的（当然深入研究就明白其实并没有 bug）。但是 23 集的最后依然利用欺骗世界获得了绝佳的效果。原因就是利用了高低视点的不同因果让观众产生错觉，观众会认为因果通顺。这也是 AF 理论对于人脑的误判的把握。很多人认为 sg 没有诡计设计，实际上这种对于观众逻辑上的直接挑战，并且利用高低视点的因果不同所导致的人脑错觉，我认为是诡计中的佼佼者。现在太多的观众被“诡计”二字迷惑，我认为“诡计”所包含的范围比他们的定义多得多。&lt;/p>
+&lt;p>以上是第二部分。大致说明了三件事。&lt;br>
+1、官设是如何诞生的？思考官设的人的起点究竟是什么？&lt;br>
+2、为什么民间的讨论最终会汇聚到“因果决定收束”这一种解释上？&lt;br>
+3、为什么这个设定能够支撑起如此出色的剧本？&lt;/p>
+&lt;p>第二部分“官设的诞生始末”，就此结束。希望看完的朋友们能够获得一些帮助。如果有不同的意见，欢迎提出来。自此，SG 已经渡过了最艰难的创作阶段，这一鸿篇巨制终于在 2009 年出土。接下来，玩家与观众便登场了。无数观点与想法纷至沓来，无数讨论、无数互动、无数排查与整理，最终形成了这一段的历史，以及如今观众对于设定理解的舆论格局。而下面就是探讨这些东西了。&lt;/p>
+&lt;h2 id="民间逻辑的诞生始末">
+&lt;a href="#%e6%b0%91%e9%97%b4%e9%80%bb%e8%be%91%e7%9a%84%e8%af%9e%e7%94%9f%e5%a7%8b%e6%9c%ab">#&lt;/a>
+民间逻辑的诞生始末
+&lt;/h2>&lt;p>民间逻辑简称“民科”（雾）&lt;/p>
+&lt;p>民间逻辑如何诞生的呢？很简单，在鸿篇巨制出土之后，经历了一段人气的积累，然后在各大论坛上开始了讨论。最开始百花齐放，只是各种观点的碰撞，然后在讨论的过程中不断完善论据和逻辑串联，形成理论。其中参与讨论的各种流派，有意义的只会是逻辑能力出众的各位大佬，因为竞争极为激烈，如果观点有问题就会被推翻。于是久而久之，在历史发展过程中优胜劣汰。经过 10 年讨论，最终形成了现在的舆论格局。&lt;/p>
+&lt;p>Ps:本人没有经历过各个论坛上石头门出土期的荒凉以及发展期的群雄割据，只经历过 2015 年之后贴吧发生的事。所以以上基本就是口胡。&lt;/p>
+&lt;p>那么 2015 年之后，什么事情诞生了呢？&lt;br>
+由 QQ 大人撰写的贴吧 QA，与官方 QA 遥相呼应。形成了门吧日经贴解释体系。&lt;/p>
+&lt;p>而这些解释体系所持观点中，最显眼的就是“因果决定收束”。&lt;br>
+为何这种说法最显眼？是有原因的。&lt;/p>
+&lt;p>1、这一结论符合官方的思考过程、符合剧情内容、符合官方设定的所有描述、符合观众的思考逻辑，并且能够从剧情当中推演所得，而非完全依据脑补。因此，获得了绝大多数人的认同与支持，并且最终在舆论发展中拔得头筹。&lt;/p>
+&lt;p>2、天老板（咱吧吧主）对此的奉献不用多说。包括天老板在内的各种大佬进行长时间的讨论，以及天老板本人对于 sg 剧情以及设定极为深层次的考究，撰写的各种总结性文章，渐渐将这一逻辑构建成了一个“理论”。这个理论拥有自己的系统，拥有自己的解释方式以及理解逻辑，最重要的是他完全符合官方设定。而剧本中一些看似不符合此理论的细节，也能通过另外一种方式解释。&lt;/p>
+&lt;p>在这里有两段分析能够深层次说明这一理论以及设定的合理性。&lt;/p>
+&lt;p>1、它的对手。&lt;/p>
+&lt;p>“因果决定收束”与“观测决定收束”是两方阵营。在很长时间都有着两派人的讨论。&lt;/p>
+&lt;p>——“观测决定收束”直接来源于剧情，从“角色”口中获得，容易被新人接受，因此很容易成为论据，但并没有在任何地方的官方设定里出现，且这一说法直观上就存在各种巨大的逻辑问题（凶真看到了真有理的死以及死法，为何死不能改变，死法却能变？）。就导致了这种说法会被轻易推翻，能在充分讨论之后依然信以为真并且死皮赖脸不认错的基本都是杠精。&lt;/p>
+&lt;p>——“因果决定收束”源自于剧情中的各种暗示，比如在真有理死后凶真一句不和常理的“我一定饶不了你”，但是剧情中并没有直观表述，需要人去分析以及理解，因此不容易被新人接受。但是，这种说法由于直接从“因果”出发，逻辑上没有破绽，彻底与 AF 理论构建的根本原因结合在了一起，因此显得非常缜密，极具说服力。而形成逻辑构建之后，其“烧脑”的本质更让人流连忘返，让人愿意相信：“命运石之门的逻辑就是如此，因为这种说法非常有道理，并且非常牛皮。”&lt;/p>
+&lt;p>&lt;font color="red">拿本帖第二部分的内容来说，观测是啥？根本没有用到。观测是量子力学里的东西，和 AF 理论没有关系。理由就是志仓的整个思考逻辑。&lt;/font>&lt;br>
+&lt;font color="red">综合来看 ABC，A 是现有理论的概念换用，其中“平行世界”是解释时间悖论的基础，“哥本哈根诠释”是为了让决定论成为可能。B 是时间机器基础上的决定论脑洞。C 是 AB 的串联。这一连串的逻辑中，最重要的是“时间机器”以及“决定论”。“时间机器”是作品的主旨和基石，“决定论”是作品戏剧性的由来。&lt;/font>&lt;br>
+&lt;font color="red">为何“量子力学”可以丢在旁边了呢？因为量子的世界本身和决定论有着不可调和的矛盾，在现实中“决定论”里的各种概念都正在被“量子论”所挑战着。&lt;/font>&lt;/p>
+&lt;p>而“因果决定收束”却能够解释“观测决定收束”中“观测者”的地位以及行为。比如为何“角色口中会说出观测到的事物不能改”，是因为“角色并非全知全能，他们对于世界的理解也有错误”。&lt;br>
+因此“因果决定收束”的解释对于“观测决定收束”是否定但是包容的。&lt;/p>
+&lt;p>同理，“因果决定收束”对于官方的解释也是“包容”的。这就要涉及到第二个例子了：对于 AF 理论的逻辑钻研深度问题。也就是下面的 2。&lt;/p>
+&lt;p>2、它的深度。&lt;br>
+“因果决定收束”这一理论，对于官方设定的理解极为深刻，它追寻的是官方设定所展示出来的理论的背后原理，因此能够解释比官方设定更广更深更细节的问题。&lt;br>
+举个例子：官方将世界线分为“线”和“绳”。AF 收束范围就是“粗绳”，而被 AF 收束范围包含在里面的世界线则是“细线”。&lt;br>
+世界线也只有这两层粗细之分。&lt;br>
+然而“因果决定收束”的理论，将分歧与收束关联起来。小的分歧带来小的收束，大的分歧带来大的收束。如此一来，能够解释的问题范围就成倍的增加了。&lt;/p>
+&lt;p>具体描述为：本质上 AF 理论是&lt;strong>收束范围&lt;/strong>，也就是不论哪一条“世界线”，虽然称之为单一的“线”，但是在更微观的量级上它依然是由更细的世界线所组成的“线绳”。这就是为什么收束会有“范围”，因此，收束所对应的分歧也具有范围。&lt;/p>
+&lt;p>由此类比，为什么萌郁的死亡和真由理的死亡被不同程度地收束（0.1% 对应 1%）？为什么真由理的死亡被收束，而死因却不被收束？&lt;br>
+——因为收束在不同的范围上。看似不被收束，只是宏观上的不被收束，微观来看被收束。而看似被收束，只是微观上的被收束，宏观来看不被收束。解决问题的方式，就是找到“收束所对应的分歧点”。真有理死亡的分歧点是α的本因——“首封 dmail”，而萌郁死亡的分歧点则是“找到 ibn5100”这件事。&lt;/p>
+&lt;p>再举一个例子，为什么真有理的死不能改变，但是死因却能改变呢？&lt;br>
+因为真有理的死的根本原因是α的根本原因，想要改变死因只能改变分歧，也就是将α世界线的本因取消，抵达β世界线。但是真有理的死因每次都是不同的，原因就是被凶真带到了各种地方导致死因的变化。分歧在“被凶真带到不同地点”而非“α本因”，分歧与收束相关联。&lt;br>
+&lt;font color="red">这样就会发现，官设中“tl 机不会改变世界线”，“dmail 可能可以改变世界线”，这两种解释在这一理论下被统一成一种解释了。因为官设的解释仅仅是表层，而这一理论则思考地更为深刻。看似完全不同的两个东西，从根源上看会发现实际上是一样的。&lt;/font>&lt;/p>
+&lt;p>以上，“因果决定收束”对于它对手的矛盾与支撑点都包容地很彻底，甚至它更能过作为官方设定的包容与拓展。“对手”与“深度”指明了其说服力强的原因。它是最为包容、解释最为清晰的理论。因此，这一结论以及背后的逻辑和理论，并不能因为它是“民间说法”就被轻易推翻，其对于官方完全包容以及拓展证明它就是一个加强版的官设。但是，也并不能像当今大多数人那样，由于各种原因，将其认作“官方说法”。因为没有任何官方设定证实了这种说法就是官方所想。&lt;/p>
+&lt;p>这，就是民间逻辑的魅力所在。&lt;/p>
+&lt;h2 id="官民如何和谐共处">
+&lt;a href="#%e5%ae%98%e6%b0%91%e5%a6%82%e4%bd%95%e5%92%8c%e8%b0%90%e5%85%b1%e5%a4%84">#&lt;/a>
+官民如何和谐共处
+&lt;/h2>&lt;p>也许越来越多的人会发现，官方本身的逻辑是有问题的甚至是错的。&lt;br>
+也许越来越多的人会知道，石头门就是个 chili chicken。&lt;br>
+那如何处理民间逻辑与官方逻辑的关系呢？&lt;br>
+——民间逻辑必须给官方逻辑让路。&lt;/p>
+&lt;p>民间逻辑成立的基础是大量人的认同，这其中有很多前提：&lt;br>
+1、将官方逻辑能解释的内容完全解释，并且并不与官方逻辑产生任何逻辑矛盾。&lt;br>
+2、经过了多次高质量讨论的检验，自身没有任何逻辑漏洞。&lt;br>
+3、能够超越官方逻辑，深层次解释剧情中各种小细节。&lt;/p>
+&lt;p>那么，如果出现了全新的官方逻辑，导致民间逻辑与其产生了逻辑矛盾；或是新出现的剧情中有一些小细节与民间逻辑具有决定性矛盾，有错误的一定是民间逻辑，而非官方逻辑。&lt;br>
+此时，民间逻辑有两条路可走。&lt;br>
+1、修正自身的理论依据，找寻剧情中新的线索、进行新的思考实验和逻辑推演，去构建符合剧情的新的理论。&lt;br>
+2、放弃思考，大骂官方不作为，当甩手掌柜。&lt;/p>
+&lt;p>当然，已有的民间逻辑根基很扎实，不会被细小的错误瞬间推翻，但是选择 1 还是 2，并不仅仅取决于民间逻辑能否解释官方新出现的剧情内容，更取决于剧情内容的“价值”。&lt;br>
+剧情一坨狗屎，原本没什么逻辑问题都会被各种挑刺。&lt;br>
+剧情精彩纷呈，就算出现一些逻辑问题也能脑补解决。&lt;br>
+粉丝都是靠爱发电的。没有爱，也就发不了电了。&lt;/p>
+&lt;p>&lt;strong>为何在过去 10 年内，民间能构建出“因果决定收束”这类规模宏大，根基扎实，实用度高，认同度高的理论逻辑？&lt;/strong>&lt;br>
+——因为当初鸿篇巨制的剧情内容的“价值”，足以孕育出充分地“观点”、充分地“讨论”、最终由量变到质变，诞生出来一位改变石学历史的“伟人”（雾）——天光逸。&lt;/p>
+&lt;p>&lt;strong>为何大家总认为 SG0 的剧情逻辑不佳，树状图只要看个热闹，剧场版根本“不是官方”的？&lt;/strong>&lt;br>
+——因为这三个篇章，剧情内容的“价值”，不足以孕育出“观点”与“讨论”，最终形成理论。&lt;br>
+个别的“观点”是有的，我写了一些文章去解读 SG0，但是“讨论”却是核心要素。缺乏“讨论”，“观点”完全是立足不了的。&lt;/p>
+&lt;p>如今，“官方”与“民间”早已不是对立。“鸿篇巨制”带来的是丰富的人气与讨论，在这之后，官方做出的东西已经不是他们的了，民间的讨论早已成了作品的一部分。不仅仅是逻辑部分，人物情感、剧情细节等等，都有了比起设定之处有了极大程度地丰富。不要说石头门这个作品本身就经历了几百号人的制作与协调，各人观点本就不同，进一步讲，民间对于剧情的理解也是多样化的。那么此时，强行彻底区分“官方”与“民间”的界限，已经变得不太可能。&lt;/p>
+&lt;p>所以，官民如何和谐共处？&lt;/p>
+&lt;p>“官方”与“民间”都得出力。&lt;/p>
+&lt;p>先说官方：剧情写好点，让民间看的开心点，比什么都强。这种情况就不是民间能够处理的事情了。&lt;/p>
+&lt;p>不过要说全是官方问题，也不对。民间对于价值的判断又多变的，市场需求、个别人心态、看片时的态度、讨论问题的场合、论坛氛围等等，都会影响到最终民间对于价值的判断。所以实际上官方也不能够全权处理。&lt;/p>
+&lt;p>对此，我的态度是——看片时心态摆正，讨论问题时尽量客观，充分理解官方用意之后再做评价。&lt;br>
+而这也是官民和谐共处中“民间”需要做到的事情。&lt;/p>
+&lt;p>我不求能影响所有人，起码自己要做到。&lt;br>
+也但愿这篇的文章能够多多少少影响一些人，从身边做起，从贴吧做起，改变讨论的生态。&lt;/p>
+&lt;p>像贴吧现在的环境，一遇到不同观点就说是吧宠与杠精，实在是抹杀灵感。&lt;br>
+——遇到这种情况，驳倒再骂也不迟呀 233。&lt;br>
+像贴吧现在的环境，民间与官方逻辑都会傻傻分不清楚，实在是趾高气昂。&lt;br>
+——遇到这种情况，先回炉重造吧 www。&lt;br>
+像贴吧现在的环境，放到几年前百花齐放的年代，估计石头门都火不起来。&lt;br>
+——遇到这种情况，我们才是被驳倒的那个。&lt;br>
+像贴吧现在的环境，口口声声说自己石学家的人，不说“讨论”的质量有多高，有多少人能够写出具有说服力的“观点”？&lt;br>
+——遇到这种情况，请各位石学家们扪心自问一下，石学究竟是什么？&lt;/p>
+&lt;p>所以，什么是石学呢？&lt;br>
+以上 10000 字，石学的定义，送给诸位。&lt;/p>
+&lt;p>愿石学长盛不衰。&lt;br>
+El psy congroo&lt;/p></description></item><item><title>CH CC 相关核心设定</title><link>https://lib.sci-adv.cc/archives/61c7828f/</link><pubDate>Sat, 17 Jun 2017 12:51:00 +0000</pubDate><guid>https://lib.sci-adv.cc/archives/61c7828f/</guid><description>&lt;p>★2009.11.06 涩谷地震&amp;amp;CC 症候群形成&lt;br>
+在地理特性的因素和一系列阴谋的背后下，2009.11.06 这天涩谷的 GE レート值奇高。而 noah2 的第三次启动实验サードメルト也在这天执行了。Noah2 放出的能波使涩谷地下矿质共振，导致了大地震的发生，当然能波的目的并不是为了地震，地震只是副产物。&lt;br>
+能波会直接刺激人脑，使脑波发生变化，而相同的脑波间会发生共鸣，导致大规模妄想同步的形成。对于脑波活跃的儿童和青少年，能波的影响更是强烈，GE レート值高更会增幅能波的效力，足以改变脑波，而大人只会觉得头痛欲裂。这也是为什么 CC 症候群只限定在六年前的儿童与青少年之间。&lt;br>
+随着时间推移，妄想同步后信息共有的累积，脑的负荷超载，导致多巴胺长时间分泌异常，致使神经性的肌肉无力，心肺衰竭，皮肤失去弹性，就是老化现象的出现。（这样也可以解释，为什么 CC 症候群患者会外表老化但头发依旧，杯田被烧死解剖后鉴定为的是年轻女子而不是老妇，还有没什么妄想同步解除后 CC 症患者会如此快速恢复）老化现象的出现促使了妄想的催生，在妄想同步的共鸣下，使得 CC 症患者们脑的负担进一步加剧，以此恶性循环，CC 症候群也就因此而诞生了。&lt;/p>
+&lt;p>★ギガロマ（Giga-Lo-Maniacs）的成因&amp;amp;Real Boot（RB）&lt;br>
+人在负面情绪的影响下会高效刺激脑神经的活性使激素分泌加速，而具备成为ギガロマ的真潜质者在受到足以毁灭人格的负刺激时，会使脑不常用的那部分被激活，导致中脑边缘多巴胺分泌异常，进而可以干涉狄拉克之海观测到ディソード（Di-sword），成为了ギガロマ。&lt;br>
+的妄想经由ディソード可以干涉到狄拉克之海，并在境界线上生成负的妄想（这个妄想只有同为ギガロマ的人才能观测得到，一般人无法看见），这时只要在介由连接着狄拉克之海的ディソード利用狄拉克方程的空孔理论生成成对的粒子和反粒子即可。将生成的粒子透过对方的皮肤、头盖骨，直接打入他人视觉死点时，粒子会转化为电子信号，直接在对方脑内产生和ギガロマ【完全相同】的妄想，又因观测坍缩能级跃迁使得狄拉克之海的境界线上负的妄想转正，具现为现实（RB）。（这里可以粗略理解为，是爱因斯坦的质能转换可逆向成立，即能量可转换为物质，和负负得正的综合应用，虽然 CHN 中说的完全不是这样一回事）。&lt;br>
+简单说就是ギガロマ可以经由ディソード干涉狄拉克之海，进而实现对现实世界的物理干涉。也就是说只要自身资质够，妄想力够足可以心想事成。&lt;br>
+但是应用ギガロマ之力时同样存在着巨大风险，上面已经说过，经ディソード生成的是成对的粒子和反粒子，随着能力的应用，反粒子也会不断地积蓄，error 扩大，到达界限会使自身的存在崩坏而消失。&lt;/p>
+&lt;p>★为何二代ギガロマ的能力只有一种&lt;br>
+二代ギガロマ与真ギガロマ不同，要达到能观测ディソード所需中脑边缘多巴胺量是有两个必要条件，一个是，在妄想同步内脑超负荷运作促进中脑边缘多巴胺分泌（即在 CC 症候群中妄想同步下），另一个是，在特定的情绪下，因中脑边缘多巴胺本身就是在情绪高亢时分泌量增加的。&lt;br>
+而二代ギガロマ在能波波及后，因某个特殊的强烈的愿望，导致某种“情绪”强烈膨胀，让中脑边缘多巴胺的分泌达到了可以观测ディソード的程度，所以他们才得到了能力。且能力只有在这种“情绪”下才能使用，因为在 09.11.06 能波照射后，涩谷的 GE レート值奇高，在它和能波的共同影响下，改变了二代的脑，使他们在那种“情绪”下分泌的中脑边缘多巴胺会异常的高，其他情绪下中脑边缘多巴胺的瞬间分泌不足以达到观测ディソード，所以只有在那种“情绪”下才能使用能力。也意味着二代ギガロマ的能力只有一种。&lt;br>
+当二代ギガロマ产生了那种“情绪”时，便使用了相应的能力。因“情绪”的不可控性，也使得部分二代ギガロマ的能力无法自主控制。&lt;/p>
+&lt;p>★拓留为何性质特殊&lt;br>
+由于拓留本身的特殊性，既非二代ギガロマ，也与真ギガロマ不同。因为拓留是具有真ギガロマ的潜质，却在非常&lt;br>
+常规下觉醒的。这也使得他使用能力时，无法脱出二代ギガロマ的范畴——在 CC 症候群下，以“情绪”为契机，使多巴胺分泌得能达到观测到ディソード的程度，来让妄想具现。可同样是因为拓留具有真ギガロマ的潜质，所以他能使用的能力也绝非一种。&lt;/p>
+&lt;p>★拓留如何脱离的妄想同步&lt;br>
+在 11.06 剧场里，拓留在重塑世莉架过程中，使用了高强度的ギガロマ之力而陷入了昏迷，而发动ギガロマ之力是需要脑的妄想彼此反馈，所以同时影响到了脑，使得脑波发生了微妙的变化——与 CC 症候群的脑波不再相同，无法同步，进而脱离了妄想同步。&lt;/p>
+&lt;p>★众女主为何会陷入昏迷&lt;br>
+在妄想同步的这张复杂网络下，由于拓留脱出，相当于网中出现了断点，而这个断点周围的节点也会因此而失去平衡。四女主与拓留的关系最是紧密，因拓留的脱出妄想同步的平衡被打破，意识陷入真实世界与妄想世界之间，失去了支持而昏迷。同时她们的昏迷，也保证了不让妄想同步的这张网的断点进一步增加，从另一个角度上说，也算是维持了妄想同步使其能继续存在。&lt;/p>
+&lt;p>★众女主清醒原因&amp;amp;CC 症候群患者们如何回到现实世界的&lt;br>
+在 te 中利用拓留导出的脑波图。当 CC 症候群患者们下意识观测到拓留的脑波图后，使他们的脑波发生了紊乱，无法同步，进而绝大多数的 CC 症患者们脱离了妄想同步，由于妄想同步的这张网络遭到了毁灭性的破坏，而失去了它的牵制效力，四女主的意识便回到了真实的世界，进而也苏醒了过来。&lt;/p>
+&lt;p>★ディソード（Di-sword）为何是剑的形状&lt;br>
+我们不妨可以先来回忆一下 CHN，看看ディソード是如何观测到的。&lt;br>
+人在负面情绪的影响下会高效刺激脑神经的活性使激素分泌加速，而具备成为ギガロマ的潜质者在受到足以毁灭人格的负刺激时，会使脑不常用的那部分被激活，导致中脑边缘多巴胺分泌异常，进而可以干涉狄拉克之海观测到ディソード。&lt;br>
+而ディソード本身则是为了干涉狄拉克之海的终端。可以近似看成作为通道而插入狄拉克之海的导管的尖端。且正因ディソード是与狄拉克之海相连，所以本身是由负物质所构成，处于无限崩坏的状态。&lt;br>
+而且崩坏时能量会以波的形式散发，ギガロマ则会拾起这些波并结合脑内的想象生成了视觉信号，像花似的绽放着光彩的长尖闪耀之物，所以这外观即像花更像剑的ディソード便诞生了，CHN 的主人公们所持的ディソード也寄宿着各自的花语。&lt;/p></description></item><item><title>SG 官方设定 QA</title><link>https://lib.sci-adv.cc/archives/cb10de70/</link><pubDate>Fri, 16 Sep 2011 00:00:00 +0000</pubDate><guid>https://lib.sci-adv.cc/archives/cb10de70/</guid><description>&lt;details class="note details">&lt;summary>作品相关 &lt;/summary>
+Steins;Gate 公式设定集 Question &amp; Answer
+回答:5pb.（松原达也氏、林直考氏）
+「note」是此书制作人员的考察和备注，并非 5pb.的官方回答。
+&lt;/p>&lt;/details>&lt;p>
+*Q1*
+在片头开首的角色介绍场面里，各人的演出包含着怎样的意义在内呢？请逐个角色的回答一下。
+*A1*
+在片头的登场角色介绍场面里，确实是包含有意义在内的。简单说明角色和其演出所暗示的东西的话，如同以下。
+冈部
+演出：并排在冈部左右方的复数门扉
+意义：冈部能够进行选择的未来之可能性
+桶子
+演出：秋叶原站电气街口
+意义：作为故事舞台的秋叶原
+红莉栖
+演出：在手提电话画面里坐在齿轮上的红莉栖
+意义：在神之视点下，作为齿轮的女主角
+真由理
+演出：分成多个小窗的真由理的剪影和零乱的数字
+意义：在复数的世界线里被玩弄的真由理的命运
+铃羽
+演出：逆向回转的时钟指针
+意义：象征逆行时间而来的铃羽
+菲莉丝
+演出：在重叠的小窗上回转的沙漏
+意义：象征上下动弹的命运
+琉华
+演出：上下反转的琉华和其剪影
+意义：在各自的世界线里相对的特性（性别）
+萌郁
+演出：破碎的手提电话和被乱打的按钮
+意义：破坏与混乱＝诈欺者
+&lt;blockquote>
+&lt;p>note:在看完所有结局后再一次看片头的话，就会明白角色的背景全都是有意义的。其中较难明白的是真由理。分成多个小窗的剪影，是在暗示位于各个世界线的真由理。也请试着留意乐曲的歌词。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q2&lt;/em>&lt;br>
+序章开头冈部的独白，是在哪条世界线的那个时间说的呢？还有，其中他的台词里有句「如果知道了自己的愚蠢就不会失去“她”」，冈部所说的“她”是在指真由理还是红莉栖呢？&lt;br>
+&lt;em>A2&lt;/em>&lt;br>
+这里的“她”写成能够指真由理或者红莉栖任何一方了。台词的时间有两个候选。在第 9～10 章的世界线里的冈部，或者从 2025 年往过去寄出影像邮件的冈部。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+序章里冈部的说话暗示了未来的命运。能够推测成是在第 10 章中，经历过真由理和红莉栖二者选一后的发言。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q3&lt;/em>&lt;br>
+冈部在第 3 章做了红莉栖搭起话来的宇宙之梦；在第 5 章做了遇到真由理的荒野之梦。这些梦包含着怎样的意义在内呢？&lt;br>
+&lt;em>A3&lt;/em>&lt;br>
+第 3 章的宇宙之梦，是为了简单易懂地显示出掉落黑洞的人会怎么样而编进去的。同时悄悄地混入了「对人类而言这无论如何都不是能够驾驭的东西」这个讯息，用以煽起各位玩家对冈部他们今后的鲁莽实验的不安。第 5 章的荒野的真由理是“冈部被吹跑到了 7000 万年前的世界的可能性世界”的梦。这是想表达世界线和世界线收束范围除了本作所描述的之外还有许多，视乎情况冈部也有可能因为反抗 SERN 而被时间机器吹跑到 7000 万年前。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+冈部做了事象的地平线和太古地球的梦。虽然梦本身并没有直接的威胁，但表示了冈部徐徐提高的不安感。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>note:并非所有暗示都会现实化，也存在完全未有收回的伏线。不过只要时间机器仍然存在，就能假想无数的可能性世界线。有冈部跟 SERN 战斗、被时间机器吹跑到 7000 万年前的世界线也说不定。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q4&lt;/em>&lt;br>
+果冻人 10 身上被刻上了鲜明的 SERN 刻印。为何故意为时间旅行实验者刻上刻印呢？尽是风险却感觉很引人注目。&lt;br>
+&lt;em>A4&lt;/em>&lt;br>
+是为了能轻易地确认「被吹跑到哪个时代的哪里」。当然 SERN 可能会被怀疑正在进行秘密实验，但也有让人认为「太过可疑反而觉得是假的」的反论效果。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+故意在秘密实验里加入 SERN 的刻印虽然奇妙，但这个刻印的存在，反而令人感觉到 300 人委员会所拥有的力量之强大。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q5&lt;/em>&lt;br>
+桶子从 Lab 处对 SERN 进行的骇客行为有被 SERN 知道吗？如果是知道的话，请告诉一下我理由。&lt;br>
+&lt;em>A5&lt;/em>&lt;br>
+α世界线里败露了的可能性很高。是骇客技术云云之前的问题，因为正楼下就有天王寺在侧耳倾听了……&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+对骇客技术抱有绝对自信的桶子。不过事后再想的话，其实跟技术没有关系，入侵被发现的可能性就很高。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q6&lt;/em>&lt;br>
+与 Q5 相关，冈部他们是从何时被 SERN 盯上的呢？还有，他们的研究被身为组织成员的 FB 觉察到是在何时呢？&lt;br>
+&lt;em>A6&lt;/em>&lt;br>
+被 FB 觉察到是萌郁知道时间机器的开发后。他暂且观望一时后向法国取得了联系。因此袭击部队从 Rounder 被派遣来了。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+8 月 3 日把萌郁招入 Lab 时被知道了 Dmail。应该是其后萌郁跟 FB 取得联系，然后就被监视了。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+虽然从萌郁那儿知道了时间机器的研究，但 Rounder 却没有立即进行袭击。此处能看出 FB 即天王寺的意图。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>note:Echelon 已经捕捉到冈部寄给桶子的 Dmail。不过，那应该并非冈部他们被监视的直接原因。萌郁在 8 月 3 日的时期从冈部处知道了 Dmail 的事，看成为在那天联络了 FB 是理所当然的。能够推测成因为有铃羽的遗言、天王寺跟冈部之间多少有着一点情感。为止他没有马上向法国取得联系而进行监视吧。冈部们让时间跳跃机器完成、并决定公之于世一事成为了 Rounder 袭击的决定性一击。如果没有完成时间跳跃机器而废弃掉的话，也有可能性改变之后的命运。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q7&lt;/em>&lt;br>
+请告诉我一下寄给冈部的 2 封恐吓邮件的发送人身份，以及附件图像所包含的意义。那些恐吓邮件的附件图像开门见山地说就是“真由理杀害预告”的意思吗？&lt;br>
+&lt;em>A7&lt;/em>&lt;br>
+邮件的发送人是萌郁，指示她发送那些邮件的是 FB。萌郁并不是用平时使用的手机，而是从预付式手机发送（因为萌郁的邮箱地址被冈部知道了）。并且，那不是杀害预告而是警告，「再继续得意忘形的话，可能会杀掉你的，所以注意一下」的意思。附件图像的果冻是果冻人，而第 2 封的人偶是带有「得意忘形的话就会变这样啊」威吓的警告。虽然 FB 充分理解冈部他们骇进了 SERN 的 Z 计划，但具体来说并不是在预告「会以这种方式杀掉」。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+冈部收到的最初的警告邮件附上了红色果冻的图像。假如懂得果冻人报告，就应该能感觉到那种毛骨悚然的感觉吧。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+第 2 封邮件是人偶在流血的图像。虽然意图单纯是警告，但结果却暗示了真由理额头中弹的命运。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+虽然跟这些邮件无关，但第 3 章的圆桌会议里有真由理进食红色果冻的场面。简直就像在暗示她那残酷的命运。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>note:关于 2 封邮件的发送人，作中并没有明确表示。可以说是少数没被揭露的谜题之一。邮件附有毛骨悚然的图像，如果想成是 SERN 以及 Rounder 发送的话，就会对其意图产生疑问。因为 Rounder 的目的是保住冈部他们和时间跳跃机器，没有必要刻意去警戒他们。这些邮件可以想成为有警告冈部他们别再跟时间机器开发关系上的意图。知道冈部他们的时间机器开发的意义，又拥有足以送出警告的情感的人缩窄为萌郁、FB 和铃羽三人。铃羽理应是想守护冈部他们的，很难想像她会积极让冈部他们洗手不干时间机器的开发。而从执行任务（FB 的指示）为萌郁的最优先事项一点，能导出开发团体的回答。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q8&lt;/em>&lt;br>
+刚完成时间跳跃机器后不久 Rounder 就冲进来了，我想是因为 Lab 的情报泄露开去了，但他们是用什么方法得知情报的呢？&lt;br>
+&lt;em>A8&lt;/em>&lt;br>
+身为 SERN 手下的 Rounder 一直居住在楼下，当然会泄露。设下了窃听器也说不定。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+Rounder 在冈部们制作时间跳跃机器、并决定公之于世当日前来袭击。其动作异常的迅速，甚至让人想像有窃听器的存在。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q9&lt;/em>&lt;br>
+第 6 章里面，在 Rounder 即将袭击之前，天王寺对冈部说了「一旦发生问题可别胡来啊」。这有着深层意义吗？&lt;br>
+&lt;em>A9&lt;/em>&lt;br>
+采用了可以说是「由于抵抗的话就会杀了你，所以别抵抗」警告的措词。天王寺关心起了冈部他们，或者是想起了铃的说话也说不定。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+真由理的袭击之后，在第 2 次的时间跳跃里找寻真由理时，被天王寺搭话。这个时候冈部还不知道 FB 的真面目。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>note:弄清 FB 的真面目是天王寺后再看这句台词，就会渐渐明白天王寺的意图。虽然天王寺和桥田铃的关系似乎各个世界线微妙的不一样，但其关系并没有被详细提及。桥田铃有可能为了未来的冈部，向天王寺留下了什么讯息。无论怎样天王寺似乎都关心起了冈部，并不单纯以 Rounder 的使命为最优先。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q10&lt;/em>&lt;br>
+联系 Lab 和 SERN 的直通线缆是何时架设的呢？还有，那些直通线缆是谁架设的呢？&lt;br>
+&lt;em>A10&lt;/em>&lt;br>
+架设线缆的是 SERN。似乎有什么打算，结果却反被冈部他们利用了。说不定 SERN 也在全世界架设了相似的直通线缆。其意图不明。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+进行了非法入侵的桶子，察觉到有从 Lab 往 SERN 的直通线缆。时间跳跃机器的实用化因其而得以达成。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>note:从 Lab 座落的大桧山大楼到 SERN 的光纤直通线缆，在时间跳跃机器的实用化上起了重要的作用。不过，本编中未有揭露架设那些直通线缆的理由、架设的当事人。虽然从 FB 的真面目是天王寺一点，能够推测得出直通线缆是 SERN 架设的说法，但其意图依然不明。关于有人推测是铃羽为了时间跳跃机器而架设的，从保守秘密、资金和工程等现实层面来看似乎稍为困难。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q11&lt;/em>&lt;br>
+虽然有铃羽去时间机器网聚会寻找父亲的情节，但她有预先考虑辨认自己父亲的方法吗？&lt;br>
+&lt;em>A11&lt;/em>&lt;br>
+铃羽出生时，桶子瘦得无法从现在的体型想象出来，变成为一个抑郁大叔，说他完全是另一个人也可以呢。由于铃羽假想自己记忆里的瘦削父亲，所以没有察觉桶子就是父亲。铃羽的目的本来是直接跳到 1975 年，却因为在 2010 年落脚，而突发性的漫无计划地搜索父亲。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+看似意志强烈、态度毅然，却又有点脱线的铃羽。由于她意外地毫无计划，于网聚搜索父亲还是以失败告终。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q12&lt;/em>&lt;br>
+于第 6 章，往 1975 年时间旅行的α世界线 5 的铃羽（桥本铃），是以怎样的经纬成为秋叶原的地主、结识菲莉丝爸爸的呢？&lt;br>
+&lt;em>A12&lt;/em>&lt;br>
+手段和过程不明。说不定有“跟 IBN5100 关系上而成为菲莉丝爸爸的朋友、作为生意伙伴成为了成功人士”这种内情。&lt;/p>
+&lt;p>&lt;em>Q13&lt;/em>&lt;br>
+跟 Q12 有关，铃羽因时间旅行而失忆后，为什么能够自称「桥田」这姓氏呢？我认为铃羽没有记忆的话是不可能留下遗言的，请告诉一下我天王寺得到大桧山大楼的理由，以及用廉价将房间租给冈部的理由。&lt;br>
+&lt;em>A13&lt;/em>&lt;br>
+详细不明。不过我想会经由“别种过程”收束成相同的结果。&lt;br>
+引用：&lt;br>
+往 1975 年时间旅行的铃羽渡过了怎样的人生其详细不明。不过，α世界线里冈部、天王寺和桥田铃的关系基本上没有改变。&lt;/p>
+&lt;blockquote>
+&lt;p>note:世界线的收束，会在原因和结果的因果律不出现破绽的情况下进行。即是过程怎么都好，以结果为优先。从真由理的死会以 Rounder 的袭击、事故、突发死亡等各种因素引起这点也能推测得到。以常识思考的话，失去记忆的阿万音铃羽不可能自称桥田铃。不过我认为，世界为了收束成她自报此名的结果，而预备了别种过程。天王寺能得到大桧山大楼，说不定也是经由世界线而预备了别种过程的缘故。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q14&lt;/em>&lt;br>
+1975 年的铃羽，为何不亲自把 IBN5100 供献给柳林神社，而托付给菲莉丝爸爸呢？冈部在α世界线 1 里面借 IBN5100 的时候，漆原父亲为何对他说「无论如何也需要它的青年会出现」呢？供献 IBN5100 的应该既不是铃羽也不是菲莉丝爸爸才对。&lt;br>
+&lt;em>A14&lt;/em>&lt;br>
+铃羽在第 2 章从冈部处打听到「IBN5100 位于柳林神社」。换言之在 2010 年 8 月的时候必须绝对是如此。可是 IBN5100 总是被 Rounder 盯上。弄不好的话恐怕 Rounder 的刺客会从 2036 年前来妨碍未来的改变。而且她认为如果要到 2010 年还能正常使用，维护也是必须要的吧。因此铃羽没有供献的理由，是她想要尽可能的置于自己手边进行管理。还有，如果铃羽到了 2010 年还活着的话，她会亲自带到柳林神社吧。然而，她在 2000 年去世了。为了防范自己死掉，而向菲莉丝爸爸留下了「把 IBN5100 供献到柳林神社。迟早会有年轻人们来取，那时候请爽快的借给他们」的遗言。因为菲莉丝爸爸在不久后也去世了，所以由菲莉丝和执事先生供献到柳林神社。铃羽的遗言就从菲莉丝爸爸传达给菲莉丝和执事了。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+「请把 IBN5100 借给年轻人」的留言是铃羽的遗言。以铃羽→菲莉丝爸爸→执事→漆原父亲的传话游戏这过程传达给冈部了。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q15&lt;/em>&lt;br>
+第 11 章中登场的β世界线的铃羽，以时间机器经由 1975 年和 2000 年来到 2010 年。请告诉一下我她特意这样做的理由。&lt;br>
+&lt;em>A15&lt;/em>&lt;br>
+沿袭了实在存在的 John Titor 所说的话。虽然作中没有描述，但有隐藏的任务也说不定。&lt;/p>
+&lt;blockquote>
+&lt;p>note:β世界线的 John Titor，是沿袭出现在美国的网络留言板的 John Titor 所说的话。现实的 Titor 是从 2036 年跳到 1975 年，然后在 2000 年开始在留言板发帖。可是，根据 Titor 的帖子的话世界线会因时间旅行而变化，，所以β世界线铃羽的行动不同了也并不奇怪。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q16&lt;/em>&lt;br>
+菲莉丝结局的世界线变动率测量仪有 1 个位无法看见。这条世界线里的世界线变动率，变成怎么样的数值了呢？&lt;br>
+&lt;em>A16&lt;/em>&lt;br>
+菲莉丝结局的世界线变动率，正确来说是 0.275349% 的Ω世界线。由于世界线变动率是相对值，所以也存在这种数值的。而且冈部所制造的世界线变动率测量仪，意义只在于数值超越 1%，所以并不需要除此以外的机能，也不存在表示“－”的部份。因此数值被显示成 BUG 了。&lt;br>
+引用：&lt;/p>
+&lt;blockquote>
+&lt;p>在Ω世界线天王寺的家中发现世界线变动率测量仪并为该数值而惊讶的冈部。不过，测量仪为何会在这里以及它的过程也存在着谜题。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q17&lt;/em>&lt;br>
+菲莉丝结局里，寄给菲莉丝爸爸的第 2 封 Dmail，使得连真由理本应跟冈部的回忆也消失了。为何会这样呢？&lt;br>
+&lt;em>A17&lt;/em>&lt;br>
+冈部和真由理是青梅竹马，所以比 Dmail 送到的时期更早就已经相识是肯定的吧。不过 10 年前的 2000 年有着“2000 年问题”这个世界线收束范围等级的巨大分歧。除了 2000 年问题会不会发生的分歧之外，冈部周围的人际关系出现巨大变化的世界线也分歧出了无数个。假设冈部和真由理自 10 年前起就疏远了的话，当时 7 岁的真由理到底能否把阔别 10 年的冈部认知为过去的青梅竹马呢？即使是忘记了也不会奇怪。而且Ω世界线里，冈部和真由理是否仍然继续居住在池袋附近也有变化的可能性，所以从真由理看来，冈部说不定连“住在附近、从前关系很好的年长男子”都不是。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+在Ω世界线里，与冈部相熟的只有菲莉丝而已。由于不存在 Lab，真由理甚至桶子、红莉栖和天王寺亲子都不认识冈部。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>note:菲莉丝线的 Dmail 送达的是 2000 年。虽然让人认为连 Dmail 抵达前的过去也遭到重新构成，但这在理论上并不自然。过去的改变理应是 2000 年之后展开的。尽管冈部和真由理在 2000 年时是青梅竹马，他们也还是小学低年级。如果在 10 年里面冈部和真由理疏远了的话，足够能认为他们已变成无法认出是青梅竹马的关系了。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q18&lt;/em>&lt;br>
+琉华结局的世界线里，SERN 会构筑出反乌托邦吗？这情况下会有怎样的未来等待着冈部和琉华他们呢？&lt;br>
+&lt;em>A18&lt;/em>&lt;br>
+会构筑出是肯定的。不过，存在反乌托邦的未来并不一定就是不幸的。是个不再存在任何纷争的世界。只要冈部废弃掉时间跳跃机器的话，即使受到 SERN 的监视也应该不会被杀掉。（虽然未来确定了会在 2025 年因某种理由而死亡）至少对那个婴儿来说，理应会得到一个安稳的未来。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+琉华线里，冈部和琉华之间有孩子诞生。这场面暗示冈部没有被 Rounder 追赶，能安稳地生活。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>note:α世界线里，SERN 构筑出反乌托邦是确定的，结果铃羽会用时间机器从未来前往 2010 年，再从那里跳到 1975 年。虽然基本上在α世界线里，红莉栖进行时间机器开发、遭到绑架的冈部他们逃出成为反抗军的未来正等待着他们，但在琉华线的世界线里冈部的未来则有若干的差异。不用跟 SERN 战斗，能得到幸福的未来也说不定。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q19&lt;/em>&lt;br>
+第 5 章中，冈部讲出了“桶子的兼职”这词语。他的兼职是怎样的工作呢？果然是能发挥出他拿手技能的兼职吗？&lt;br>
+&lt;em>A19&lt;/em>&lt;br>
+能尽情发挥出「超级嗨客」本领的工作，不能大声说出来的一些骇客行为……也说不定。拥有那种本领的话，那么世界中可会有很多顾主吧。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+冈部的话说出现桶子的兼职，是在第 2 次的警告邮件即将送出的时候。不知为何只有这个 8 月 11 日桶子没出现在 Lab。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q20&lt;/em>&lt;br>
+成为桶子结婚对象、铃羽母亲的女性在本作中有登场吗？打比方说，会是吹雪酱或者枫酱的其中一个吗？&lt;br>
+&lt;em>A20&lt;/em>&lt;br>
+不会登场。那位女性是在 CM 跟桶子邂逅的，什么时候则没有明确决定。顺便名字是“阿万音由季”。是腐女。是不是巨乳不清楚。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+把铃羽描写为主角的本作派生作品・月刊 COMIC BLADE『亡环的 Rebellion』里面，有阿万音由季登场的一个镜头。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q21&lt;/em>&lt;br>
+明明α世界线里桶子和由季应该都是宅才对，他们的女儿铃羽却不关心宅事物（如此设定）是为何呢？是因为铃羽懂事时就已经有 SERN 反乌托邦的前兆了吗？&lt;br>
+&lt;em>A21&lt;/em>&lt;br>
+桶子和冈部一起投身反抗活动而被 Rounder 盯上。桶子知道 SERN 会在 2034 年完成时间机器，于是为了不受到来自未来的干涉而一直潜伏，也不让敌我双方知道自己的一切行动，又以「Barrel Titor」自称。当然的，由于是跟妻子分散行动的，作为父亲的桶子和铃羽在其后几乎都没有见面。因为反抗活动既是反体制行为亦是恐怖份子行为，他们夫妇应该也没有享受宅事物的富余时间。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+本编中身为深度宅男的桶子。虽然在 CM 与由季结识，但在未来的世界里似乎没有太多享受宅事物的时间。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q22&lt;/em>&lt;br>
+α世界线中受到 Rounder 袭击的世界线里，我认为桶子是就这样的被 SERN 给逮住了。桶子是如何在 CM 跟由季邂逅的呢？&lt;br>
+&lt;em>A22&lt;/em>&lt;br>
+其实被 Rounder 逮住了的冈部和桶子，为了参加 2011 年的冬 CM 而坚决赌命进行了名为「通往天国之路（Operation Valhalla）」的逃亡作战。桶子和由季也许是在那兒碰上的也说不定。或者也有着在 2010 年时已经见过面的可能性。&lt;/p>
+&lt;p>&lt;em>Q23&lt;/em>&lt;br>
+α世界线的真由理收束成“死”这个结果了，但菲莉丝爸爸的死却没有确定是为什么呢？还有，萌郁的生死会变成怎么样呢？&lt;br>
+&lt;em>A23&lt;/em>&lt;br>
+菲莉丝爸爸的情况跟真由理不同，会否因 2000 年的世界线收束范围分歧的影响而死并没有确定。萌郁的话，除了第 10 章的α世界线 1 之外，在α世界线的死是确定了的。将会于 8 月 15 日死亡。&lt;br>
+真&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+真由理的死亡运命在α世界线里不会改变。不过菲莉丝爸爸会因寄往 10 年前的 Dmail 而出现生死的变化。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+萌郁和天王寺的死在第 9 章的α世界线 2 里描述了。α世界线 3～5 里虽然和冈部没有接点，但两人会在同一天因某些理由而死亡。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>note:α世界线里，萌郁的死只在第 9 章的α世界线 2 里描述过了。由于在α世界线 1 中 8 月 15 日以后萌郁仍活着，所以萌郁的死能通过取消她的 Dmail 来回避。在α世界线 3～5 中，冈部到达 8 月 15 日的情况少之又少。因此冈部没有观测到萌郁和天王寺的死。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q24&lt;/em>&lt;br>
+冈部于 1999 年因高烧而卧病在床约 1 个月时，状况被描写成像是 Reading Steiner 发动那样。这时候，冈部发生了什么事情呢？&lt;br>
+&lt;em>A24&lt;/em>&lt;br>
+冈部在这时候觉醒了 Reading Steiner 的能力，但是觉醒的理由不明。跟牵涉到 2000 年问题的世界线收束范围的巨大分歧有所关联。&lt;/p>
+&lt;blockquote>
+&lt;p>note:作中讲述过 Reading Steiner 本来是任谁都拥有的能力。可是，冈部的 Reading Steiner 由于很强力，所以明确地拥有其他世界线的记忆，相反的有着「没有冈部的主观所未曾经历过的记忆」这个弊病。在这点上冈部（玩家）拥有和常人不同的特殊能力。而这个能力在作中未有作过科学考证，这可以说正是“1% 的幻想”的部份吧。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q25&lt;/em>&lt;br>
+为什么在第 10 章中，能够藉着删除被 Echelon 收集到的寄给桶子的 Dmail 而移动到β世界线呢？在删除之前，Dmail 已经被 SERN 知道了的话，即使删除了不也无法改变命运吗？&lt;br>
+&lt;em>A25&lt;/em>&lt;br>
+透过改变现在，过去也会重新构成。第 2 章里 John Titor 在@channal 上说的话「一旦发生世界线变动率会改变的大事件，过去总是会按照着因果律毫无矛盾地被重新构成」就是这样。藉着删除 7 月 28 日的 Echelon 的邮件数据，7 月 28 日至 8 月 21 日的因果律将会重新构成为“β世界线 1.130205%”。这是建基于「由于 Dmail 本来就是“离开了因果律之环的异端”，当进行寄送或删除等干涉，将会产生无视因果律的大幅度异常改变」这条本作中因果律改变的规则。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+当删除残留于 Echelon 的冈部送出的 Dmail 数据时，世界会产生变化。此行为是受未来的桶子唆使的铃羽，向冈部他们提议的。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>note:为何藉着删除 Echelon 的 Dmail 数据，会让世界线变化？这是玩家特别抱有疑问的要点之一。ReadingSteiner 发动几乎都是用 Dmail 改变了过去时。这成为了“ReadingSteiner 仅因邮件的删除就发动，因此而感到不谐调”的原因。顺带一提想要时间跳跃去进行巨大的过去改变时，大都会因收束而以失败告终。“对于想要删除 Dmail 这个行为，为何阻止这事的收束并没有起作用？”是一个谜。也留下了“即使之后删除邮件，只要之前就被 SERN 盯上了的话，结果不也不会改变吗？”等疑问。开发团体对于这些疑问，回答了「Dmail 本来就是“离开了因果律之环的异端”」，所以当进行干涉将会引起大幅度的改变。即是 Dmail 的特殊性，成为了引起种种世界线变动的原动力。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q26&lt;/em>&lt;br>
+送出 Dmail 时 Reading Steiner 会发动。可是，为什么铃羽使用时间机器时，冈部的 Reading Steiner 没有发动呢？&lt;br>
+&lt;em>A26&lt;/em>&lt;br>
+说不定在时间旅行中已经发动了，可能只是因为时间旅行中的冲击（强烈的 G 力等）的缘故，冈部没有察觉到发动了而已。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+过去因时间旅行而被改变的情况下，Reading Steiner 也会发动。只是，由于正在移动时空而感觉不到的可能性很高。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q27&lt;/em>&lt;br>
+在第 11 章中，是在什么时候移动到 Steins;Gate 世界线的呢？冈部为何无法感觉到世界线改变的瞬间呢？&lt;br>
+&lt;em>A27&lt;/em>&lt;br>
+我想是以时间机器返回 8 月 21 日的途中。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+如果到达 Steins;Gate，世界线应该会改变。不过，由于没有 Reading Steiner 的发动场面，那个瞬间很难判明。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>note:到达 Steins;Gate 的条件是拯救红莉栖以及不让中钵论文公诸于世。让世界线变动的决定性因素是中钵论文的消失。中钵论文着火，可以认为是用时间机器即将回到 8 月 21 日的时候。这时候到达 Steins;Gate 的条件被满足了。不过，Steins;Gate 的世界线中，未来的铃羽没有用时间机器来到 2010 年。铃羽和时间机器消失后，冈部才会到达 Steins;Gate。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q28&lt;/em>&lt;br>
+冈部反覆往短暂的时间带时间跳跃好几遍。换言之，应该在特定的时间带里接受到来自未来的来电好几遍，但为何没让意识飞走或者产生混乱呢？&lt;br>
+&lt;em>A28&lt;/em>&lt;br>
+『Steins;Gate』中的时间跳跃是特殊的。它并不是覆盖。而只是“回想出未来的记忆”。比方说 8 月 1 日的冈部，接收到经历至 8 月 2 日后时间跳跃的 A 记忆，以及经历至 8 月 21 日后时间跳跃的 B 记忆。这情况下，B 记忆并不是被 A 记忆覆盖，而是分开保存着。当然的，8 月 1 日之前的冈部的记忆始终不会改变仍然存在。就是鲜明地“回想出”A 这未来的可能性和 B 这未来的可能性。这两种未来的可能性同时存在于记忆当中。所以意识不会飞走。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+冈部遭红莉栖警告时间跳跃伴着危险。不过一旦习惯了，渐渐地一些琐碎的事情也会进行时间跳跃。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+第 9 章的 8 月 15 日，冈部为了打探 FB 的真面目而时间跳跃好几遍。可能会有再次接收到前往过去的时间跳跃通信的机会？&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>note:冈部的 Reading Steiner 会发动的基本上都是寄出 Dmail 的时候。换言之，时间跳跃所引起的世界线变动率的变动值，会是零（或者是冈部无法察觉的极小数值）。为此，在冈部重复时间跳跃的场面里，冈部应该会屡次接收到来自未来的自己的时间跳跃来电。这样的话，会产生出“冈部不会因为未来的记忆屡次透过时间跳跃的来电被转送，而产生混乱吗？”的疑问。不过，作中完全没有这种描述，冈部是泰然处之地行动的。对于这个疑问，开发团体回答了时间跳跃的记忆并不是覆盖，而“只是回想出未来的记忆”。这在第 9 章的綯的说话里也说明过。冈部由于记得自己时间跳跃过，所以记忆不会产生混乱。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q29&lt;/em>&lt;br>
+第 11 章里冈部第 2 次用时间机器回到 7 月 28 日时，为什么没有碰上最初用时间机器回去时的自己呢？&lt;br>
+&lt;em>A29&lt;/em>&lt;br>
+第 11 章里的时间旅行，在跳跃前和跳跃后，会产生 0.000001~0.000003% 程度的世界线变动。跳跃时间越长误差也会越大。铃羽在 2036 年出发时世界线变动率是 0.000000%，抵达 2010 年时却变化了大约 0.3～0.5% 也是这个缘故。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+由于世界线会在时间旅行里变化，所以没碰上刺杀红莉栖的冈部。第 2 次坐进时间机器的时候，铃羽有说明。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>note:世界线会在时间旅行里变动，是沿用网络上实际存在的 John Titor 所写的内容的（但注意不是多世界诠释）。相对于进入第 11 章时的世界线变动率是 1.130205%，进入 Steins;Gate 前的世界线变动率是 1.130212%（这可以从各自的世界线变动率测量仪的影片确认）。我想这个误差是时间旅行来回 2 次的世界线变动的结果。&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;em>Q30&lt;/em>&lt;br>
+我认为在第 11 章里，如果没有杀害了红莉栖的冈部，能够开发出完全的时间机器的冈部也应该不会存在。一方面，如果没有开发出完全的时间机器的冈部，就不会把铃羽送到过去的冈部处，结果冈部也不会杀死红莉栖。这不就相当于悖论（矛盾）了吗？&lt;br>
+&lt;em>A30&lt;/em>&lt;br>
+第 11 章的红莉栖死亡场面里“杀掉的是冈部”终究是“可能性之一”。虽然是为了更为戏剧性而描写出那个展开，但比方说在那个场面里多次重复时间跳跃，即使冈部采取不会杀掉红莉栖的行动，未来也会跟第 6 章的真由理一样般的收束，“即使冈部没有杀掉，红莉栖也会以别的方法死亡”。也许 2025 年的冈部反覆进行时间跳跃然后一次又一次的绝望了也说不定。关于时间机器，存在中钵论文（红莉栖所想的时间机器理论），于是冈部参考了它。用来回避第 3 次世界大战。时间机器本身和“冈部的执念”其实没有太大关系。实际上，最终让时间机器完成的始终是桶子。&lt;/p>
+&lt;blockquote>
+&lt;p>引用：&lt;br>
+冈部刺死了红莉栖，似乎跟时间机器开发没有关系。隐藏的无限可能性为结局带来了影响吧。&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>note:为了拯救红莉栖，为何冈部必须一度刺死红莉栖呢？如果认为冈部亲手刺死了红莉栖的巨大悔恨，是能够制造出能跳跃到过去与未来完全的时间机器的理由的话，因果就会产生出悖论。因为如果没有完全的时间机器，冈部就无法刺死红莉栖。开发团体的回答是，一度刺死红莉栖对时间机器开发来说不是必要的，而是暗示出这是可能性的一种。世界线收束范围理论的世界是一个的，并不是多世界诠释。不过，只要有时间机器就能从头来过，所以世界有能够无限次重新构成的可能性。虽然本编里没有描述，但冈部说不定屡次想拯救红莉栖失败，每次都一边继续努力一边摸索捷径。可以认为他一味向命运抵抗挣扎，而只描述了最后成功的过程。&lt;/p>
+&lt;/blockquote></description></item></channel></rss>
