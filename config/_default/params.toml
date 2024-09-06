@@ -100,7 +100,7 @@ clientSecret = ""
 autoCreateIssue = false
 
 [comments.waline]
-serverURL = "https://comments.sciadv.mcseekeri.top"
+serverURL = "https://comments.sci-adv.cc"
 commentSorting = "hottest"
 visitor = true
 requiredMeta = ["name", "email", "url"]

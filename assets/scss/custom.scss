@@ -1,27 +1,31 @@
-
 /* 左侧竖条样式 */
 div.timenode {
     position: sticky
 }
-div.timenode:after,div.timenode:before {
+
+div.timenode:after,
+div.timenode:before {
     content: '';
     z-index: 1;
     position: absolute;
-    background: rgba(61,217,182,.5);
+    background: rgba(61, 217, 182, .5);
     width: 2px;
     left: 7px
 }
+
 div.timenode:before {
     top: 0;
     height: 6px
 }
+
 div.timenode:after {
     top: 26px;
     height: calc(100% - 26px)
 }
 
 /* 限宽 */
-div.timenode .body,div.timenode .meta {
+div.timenode .body,
+div.timenode .meta {
     max-width: calc(100% - 24px)
 }
 
@@ -32,6 +36,7 @@ div.timenode .meta {
     line-height: 32px;
     height: 32px
 }
+
 div.timenode .meta p {
     font-weight: 700;
     font-size: 80%;
@@ -39,18 +44,21 @@ div.timenode .meta p {
 }
 
 /* 左侧圆圈 */
-div.timenode .meta:after,div.timenode .meta:before {
+div.timenode .meta:after,
+div.timenode .meta:before {
     content: '';
     position: absolute;
     top: 8px;
     z-index: 2
 }
+
 div.timenode .meta:before {
-    background: rgba(61,217,182,.5);
+    background: rgba(61, 217, 182, .5);
     width: 16px;
     height: 16px;
     border-radius: 8px;
 }
+
 div.timenode .meta:after {
     background: #3dd9b6;
     margin-left: 2px;
@@ -59,17 +67,19 @@ div.timenode .meta:after {
     height: 12px;
     border-radius: 6px;
     transform: scale(.5);
-	transition: all .28s ease;
-	
+    transition: all .28s ease;
+
 }
 
 /*鼠标滑动效果*/
 div.timenode .meta:hover {
     color: var(--body-text-color)
 }
+
 div.timenode:hover .meta:before {
-    background: rgba(255,87,34,.5)
+    background: rgba(255, 87, 34, .5)
 }
+
 div.timenode:hover .meta:after {
     background: #ff5722;
     transform: scale(1);
@@ -77,7 +87,7 @@ div.timenode:hover .meta:after {
 
 /* 内容框样式 */
 div.timenode .body {
-	background: #f6f6f6;
+    background: #f6f6f6;
     margin: 4px 0 10px 24px;
     padding: 5px;
     border-radius: 8px;
@@ -85,23 +95,24 @@ div.timenode .body {
     display: -moz-box;
     display: inline-block
 }
+
 [data-scheme=dark] div.timenode .body {
     background: #3a3636;
 }
 
 
 
-.article-content h1 ,
-.article-content h2 ,
+.article-content h1,
+.article-content h2,
 .article-content h3 {
-	font-weight: 700;
-	background: linear-gradient(to bottom, transparent 0, rgba(189,202,219,0.3) 0) no-repeat;
-	width: auto;
+    font-weight: 700;
+    background: linear-gradient(to bottom, transparent 0, rgba(189, 202, 219, 0.3) 0) no-repeat;
+    width: auto;
 }
 
-.article-content h3{
-	font-weight: 500;
-	position: initial;
+.article-content h3 {
+    font-weight: 500;
+    position: initial;
 }
 
 
@@ -114,22 +125,31 @@ div.note {
     padding-left: calc(16px + 16px);
     border-radius: 62px;
     -webkit-border-radius: 4px;
-    color : var(--card-text-color-main);
+    color: var(--card-text-color-main);
     background: #f6f6f6;
     border-left: 4px solid #3dd9b6
 }
+
 [data-scheme=dark] div.note {
     background: #3a3636;
 }
 
-div.note h2,div.note h3,div.note h4,div.note h5,div.note h6 {
+div.note h2,
+div.note h3,
+div.note h4,
+div.note h5,
+div.note h6 {
     margin-top: 3px;
     margin-bottom: 0;
-    padding-top: 0!important;
+    padding-top: 0 !important;
     border-bottom: initial
 }
 
-div.note blockquote,div.note img,div.note ol,div.note p,div.note ul {
+div.note blockquote,
+div.note img,
+div.note ol,
+div.note p,
+div.note ul {
     margin-top: .5em;
     margin-bottom: .5em
 }
@@ -167,7 +187,7 @@ div.note.quote::before {
 }
 
 div.note.info {
-    border-color:#3dd9b6; 
+    border-color: #3dd9b6;
 }
 
 div.note.info::before {
@@ -175,11 +195,13 @@ div.note.info::before {
     content: '\f129'
 }
 
-div.note.done,div.note.success {
+div.note.done,
+div.note.success {
     border-color: #3dc550
 }
 
-div.note.done::before,div.note.success::before {
+div.note.done::before,
+div.note.success::before {
     color: #3dc550;
     content: '\f00c'
 }
@@ -193,36 +215,39 @@ div.note.warning::before {
     content: '\f12a'
 }
 
-div.note.danger,div.note.error {
+div.note.danger,
+div.note.error {
     border-color: #fe5f58
 }
 
-div.note.danger::before,div.note.error::before {
+div.note.danger::before,
+div.note.error::before {
     color: #fe5f58;
     content: '\f7b9'
 }
+
 .article-content emp {
     border-bottom: 4px dotted #fe5f58;
 }
-.article-page .main-article .article-content a{
-    color :#2092ec;
+
+.article-page .main-article .article-content a {
+    color: #2092ec;
 }
 
 .wl-reaction-title {
-    color : var(--card-text-color-main)
+    color: var(--card-text-color-main)
 }
 
-@font-face
-{
+@font-face {
     font-family: 'Font Awesome 6 Pro';
-    src: url('https://font.onmicrosoft.cn/font6pro@6.2.0/webfonts/fa-solid-900.woff2');
-    font-weight: 900;  
+    src: url('https://font.onmicrosoft.cn/font6pro@6.5.1/webfonts/fa-solid-900.woff2');
+    font-weight: 900;
 }
 
 :root {
     --sys-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Droid Sans", "Helvetica Neue";
     --zh-font-family: "PingFang SC", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei";
-    
+
     --base-font-family: "Roboto", "Noto Serif SC", "PingFang SC", "Microsoft Yahei UI", "Microsoft Yahei", var(--sys-font-family), var(--zh-font-family), sans-serif, "Font Awesome 6 Pro";
     --code-font-family: var(--base-font-family), monospace;
 }
